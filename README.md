@@ -190,23 +190,34 @@ A collection of supervised academic projects, including work around AI and e-com
 <tr>
 <td><b>SOC & DEFENSIVE OPERATIONS</b></td>
 <td>
-<img src="https://img.shields.io/badge/DEFENSIVE_SECURITY-0B1117?style=for-the-badge&logo=shield&logoColor=D7FF38" alt="Defensive security"/>
-<br/><sub>Security monitoring foundations · Log analysis concepts · Alert triage · Incident response lifecycle · Threat detection fundamentals</sub>
+<img src="https://img.shields.io/badge/Wazuh-0B1117?style=for-the-badge&logo=wazuh&logoColor=D7FF38" alt="Wazuh"/>
+<img src="https://img.shields.io/badge/Splunk-0B1117?style=for-the-badge&logo=splunk&logoColor=00E5FF" alt="Splunk"/>
+<img src="https://img.shields.io/badge/Wireshark-0B1117?style=for-the-badge&logo=wireshark&logoColor=00E5FF" alt="Wireshark"/>
+<img src="https://img.shields.io/badge/Sysmon-0B1117?style=for-the-badge&logo=microsoft&logoColor=D7FF38" alt="Sysmon"/>
+<img src="https://img.shields.io/badge/Event_Viewer-0B1117?style=for-the-badge&logo=windows&logoColor=00E5FF" alt="Windows Event Viewer"/>
+<br/><sub>SIEM exploration · Endpoint and system telemetry · Network packet analysis · Log review · Alert triage · Incident response fundamentals</sub>
 </td>
 </tr>
 <tr>
 <td><b>PENTEST & SECURITY TESTING</b></td>
 <td>
-<img src="https://img.shields.io/badge/SECURITY_TESTING-0B1117?style=for-the-badge&logo= kali-linux&logoColor=D7FF38" alt="Security testing"/>
-<br/><sub>Authorized security testing · Reconnaissance concepts · Vulnerability assessment · Web and network security fundamentals</sub>
+<img src="https://img.shields.io/badge/Nmap-0B1117?style=for-the-badge&logo=nmap&logoColor=D7FF38" alt="Nmap"/>
+<img src="https://img.shields.io/badge/Burp_Suite-0B1117?style=for-the-badge&logo=burpsuite&logoColor=FF647C" alt="Burp Suite"/>
+<img src="https://img.shields.io/badge/Metasploit-0B1117?style=for-the-badge&logo=metasploit&logoColor=00E5FF" alt="Metasploit"/>
+<img src="https://img.shields.io/badge/OWASP_ZAP-0B1117?style=for-the-badge&logo=owasp&logoColor=D7FF38" alt="OWASP ZAP"/>
+<img src="https://img.shields.io/badge/Gobuster-0B1117?style=for-the-badge&logo=kalilinux&logoColor=00E5FF" alt="Gobuster"/>
+<br/><sub>Authorized lab testing · Network and web assessment · Reconnaissance and content discovery concepts · Vulnerability validation</sub>
 </td>
 </tr>
 <tr>
 <td><b>GRC, IAM & ACCESS MANAGEMENT</b></td>
 <td>
-<img src="https://img.shields.io/badge/GRC-0B1117?style=for-the-badge&logo=googlesheets&logoColor=D7FF38" alt="Governance, risk and compliance"/>
-<img src="https://img.shields.io/badge/IAM-0B1117?style=for-the-badge&logo=keycloak&logoColor=D7FF38" alt="Identity and access management"/>
-<br/><sub>ISO 27001 awareness · Risk and compliance fundamentals · Identity lifecycle · Authentication · Authorization · Access control concepts</sub>
+<img src="https://img.shields.io/badge/ISO_27001-0B1117?style=for-the-badge&logo=iso&logoColor=D7FF38" alt="ISO 27001"/>
+<img src="https://img.shields.io/badge/Risk_Assessment-0B1117?style=for-the-badge&logo=checkmarx&logoColor=00E5FF" alt="Risk assessment"/>
+<img src="https://img.shields.io/badge/Active_Directory-0B1117?style=for-the-badge&logo=microsoft&logoColor=00E5FF" alt="Active Directory"/>
+<img src="https://img.shields.io/badge/BloodHound-0B1117?style=for-the-badge&logo=neo4j&logoColor=FF647C" alt="BloodHound"/>
+<img src="https://img.shields.io/badge/Entra_ID-0B1117?style=for-the-badge&logo=microsoftazure&logoColor=D7FF38" alt="Microsoft Entra ID"/>
+<br/><sub>ISMS and ISO 27001 foundations · Risk and audit concepts · Directory services · Identity lifecycle · Authentication · Authorization · Access control</sub>
 </td>
 </tr>
 <tr>
