@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="74" viewBox="0 0 1600 74" role="img" aria-label="NEXUS engineering disciplines">
+<rect width="1600" height="74" fill="#d8ff38"/>
+<path d="M0 0H1600V74H0Z" fill="none" stroke="#0b1114" stroke-width="3"/>
+<g fill="#0b1114" font-family="monospace" font-size="20" font-weight="700" letter-spacing="2">
+<text x="34" y="46">01 / NETWORK ENGINEERING</text><text x="415" y="46">✳</text>
+<text x="470" y="46">02 / SYSTEMS &amp; VIRTUALIZATION</text><text x="900" y="46">✳</text>
+<text x="955" y="46">03 / AUTOMATION &amp; OBSERVABILITY</text><text x="1390" y="46">✳</text>
+<text x="1440" y="46">04 / SECURITY</text></g></svg>
