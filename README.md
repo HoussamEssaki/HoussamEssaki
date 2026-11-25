@@ -137,48 +137,81 @@ A collection of supervised academic projects, including work around AI and e-com
 <img src="./assets/command-center/section-stack.svg" width="100%" alt="Engineering toolkit"/>
 </div>
 
-**NETWORKING**  
-<img src="https://img.shields.io/badge/Cisco-0B1117?style=for-the-badge&logo=cisco&logoColor=D7FF38" alt="Cisco" /> <img src="https://img.shields.io/badge/VLANs-0B1117?style=for-the-badge&labelColor=17232D" alt="VLANs" /> <img src="https://img.shields.io/badge/802.1Q-0B1117?style=for-the-badge&labelColor=17232D" alt="802.1Q" /> <img src="https://img.shields.io/badge/Rapid-PVST-0B1117?style=for-the-badge&labelColor=17232D" alt="Rapid-PVST" /> <img src="https://img.shields.io/badge/HSRP-0B1117?style=for-the-badge&labelColor=17232D" alt="HSRP" /> <img src="https://img.shields.io/badge/LACP_%2F_EtherChannel-0B1117?style=for-the-badge&labelColor=17232D" alt="LACP / EtherChannel" />
-
----
-
-**SYSTEMS & VIRTUALIZATION**  
-<img src="https://img.shields.io/badge/Debian-0B1117?style=for-the-badge&logo=debian&logoColor=D7FF38" alt="Debian" /> <img src="https://img.shields.io/badge/Linux-0B1117?style=for-the-badge&logo=linux&logoColor=D7FF38" alt="Linux" /> <img src="https://img.shields.io/badge/Windows_Server-0B1117?style=for-the-badge&logo=windows&logoColor=D7FF38" alt="Windows Server" /> <img src="https://img.shields.io/badge/VMware_ESXi-0B1117?style=for-the-badge&logo=vmware&logoColor=D7FF38" alt="VMware ESXi" /> <img src="https://img.shields.io/badge/vCenter-0B1117?style=for-the-badge&logo=vmware&logoColor=D7FF38" alt="vCenter" /> <img src="https://img.shields.io/badge/systemd-networkd-0B1117?style=for-the-badge&logo=linux&logoColor=D7FF38" alt="systemd-networkd" />
-
----
-
-**NETWORK & SYSTEM SECURITY**  
-<img src="https://img.shields.io/badge/FortiGate-0B1117?style=for-the-badge&logo=fortinet&logoColor=D7FF38" alt="FortiGate" /> <img src="https://img.shields.io/badge/Firewalling-0B1117?style=for-the-badge&labelColor=17232D" alt="Firewalling" /> <img src="https://img.shields.io/badge/Network_Segmentation-0B1117?style=for-the-badge&labelColor=17232D" alt="Network Segmentation" /> <img src="https://img.shields.io/badge/High_Availability-0B1117?style=for-the-badge&labelColor=17232D" alt="High Availability" /> <img src="https://img.shields.io/badge/Hardening-0B1117?style=for-the-badge&labelColor=17232D" alt="Hardening" /> <img src="https://img.shields.io/badge/Defensive_Monitoring-0B1117?style=for-the-badge&labelColor=17232D" alt="Defensive Monitoring" />
-
----
-
-**AUTOMATION & OBSERVABILITY**  
-<img src="https://img.shields.io/badge/Python-0B1117?style=for-the-badge&logo=python&logoColor=D7FF38" alt="Python" /> <img src="https://img.shields.io/badge/Bash-0B1117?style=for-the-badge&logo=gnubash&logoColor=D7FF38" alt="Bash" /> <img src="https://img.shields.io/badge/PowerShell-0B1117?style=for-the-badge&logo=powershell&logoColor=D7FF38" alt="PowerShell" /> <img src="https://img.shields.io/badge/n8n-0B1117?style=for-the-badge&logo=n8n&logoColor=D7FF38" alt="n8n" /> <img src="https://img.shields.io/badge/Netdata-0B1117?style=for-the-badge&logo=netdata&logoColor=D7FF38" alt="Netdata" /> <img src="https://img.shields.io/badge/Node_Exporter-0B1117?style=for-the-badge&logo=prometheus&logoColor=D7FF38" alt="Node Exporter" /> <img src="https://img.shields.io/badge/Glances-0B1117?style=for-the-badge&labelColor=17232D" alt="Glances" />
-
----
-
-**CLOUD & INFRASTRUCTURE**  
-<img src="https://img.shields.io/badge/Docker-0B1117?style=for-the-badge&logo=docker&logoColor=D7FF38" alt="Docker" /> <img src="https://img.shields.io/badge/Virtualization-0B1117?style=for-the-badge&logo=vmware&logoColor=D7FF38" alt="Virtualization" /> <img src="https://img.shields.io/badge/Hybrid_Infrastructure-0B1117?style=for-the-badge&labelColor=17232D" alt="Hybrid Infrastructure" /> <img src="https://img.shields.io/badge/Infrastructure_Operations-0B1117?style=for-the-badge&labelColor=17232D" alt="Infrastructure Operations" />
-
----
-
-**DEVELOPMENT & APIs**  
-<img src="https://img.shields.io/badge/JavaScript-0B1117?style=for-the-badge&logo=javascript&logoColor=D7FF38" alt="JavaScript" /> <img src="https://img.shields.io/badge/TypeScript-0B1117?style=for-the-badge&logo=typescript&logoColor=D7FF38" alt="TypeScript" /> <img src="https://img.shields.io/badge/Django-0B1117?style=for-the-badge&logo=django&logoColor=D7FF38" alt="Django" /> <img src="https://img.shields.io/badge/Django_REST_Framework-0B1117?style=for-the-badge&logo=django&logoColor=D7FF38" alt="Django REST Framework" /> <img src="https://img.shields.io/badge/React-0B1117?style=for-the-badge&logo=react&logoColor=D7FF38" alt="React" /> <img src="https://img.shields.io/badge/Vite-0B1117?style=for-the-badge&logo=vite&logoColor=D7FF38" alt="Vite" /> <img src="https://img.shields.io/badge/REST_APIs-0B1117?style=for-the-badge&labelColor=17232D" alt="REST APIs" /> <img src="https://img.shields.io/badge/JWT-0B1117?style=for-the-badge&labelColor=17232D" alt="JWT" />
-
----
-
-**DATA & MESSAGING**  
-<img src="https://img.shields.io/badge/PostgreSQL-0B1117?style=for-the-badge&logo=postgresql&logoColor=D7FF38" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/MariaDB-0B1117?style=for-the-badge&logo=mariadb&logoColor=D7FF38" alt="MariaDB" /> <img src="https://img.shields.io/badge/Redis-0B1117?style=for-the-badge&logo=redis&logoColor=D7FF38" alt="Redis" /> <img src="https://img.shields.io/badge/Apache_Kafka-0B1117?style=for-the-badge&logo=apachekafka&logoColor=D7FF38" alt="Apache Kafka" /> <img src="https://img.shields.io/badge/Celery-0B1117?style=for-the-badge&labelColor=17232D" alt="Celery" /> <img src="https://img.shields.io/badge/SQL-0B1117?style=for-the-badge&labelColor=17232D" alt="SQL" />
-
----
-
-**AI & WORKFLOW AUTOMATION**  
-<img src="https://img.shields.io/badge/CrewAI-0B1117?style=for-the-badge&labelColor=17232D" alt="CrewAI" /> <img src="https://img.shields.io/badge/LLM_Workflows-0B1117?style=for-the-badge&labelColor=17232D" alt="LLM Workflows" /> <img src="https://img.shields.io/badge/AI-Assisted_Features-0B1117?style=for-the-badge&labelColor=17232D" alt="AI-Assisted Features" />
-
----
-
-**IOT & EMBEDDED SYSTEMS**  
-<img src="https://img.shields.io/badge/ESP32-0B1117?style=for-the-badge&logo=espressif&logoColor=D7FF38" alt="ESP32" /> <img src="https://img.shields.io/badge/Arduino-0B1117?style=for-the-badge&logo=arduino&logoColor=D7FF38" alt="Arduino" /> <img src="https://img.shields.io/badge/Bluetooth-0B1117?style=for-the-badge&labelColor=17232D" alt="Bluetooth" />
+<table>
+<tr><th align="left" width="25%">DOMAIN</th><th align="left">TECHNOLOGIES & TOOLING</th></tr>
+<tr>
+<td><b>NETWORKING</b></td>
+<td>
+<img src="https://img.shields.io/badge/Cisco-0B1117?style=for-the-badge&logo=cisco&logoColor=D7FF38" alt="Cisco"/>
+<img src="https://img.shields.io/badge/FortiGate-0B1117?style=for-the-badge&logo=fortinet&logoColor=D7FF38" alt="FortiGate"/>
+<br/><sub>VLANs · 802.1Q · Rapid-PVST · HSRP · LACP / EtherChannel · Switching</sub>
+</td>
+</tr>
+<tr>
+<td><b>SYSTEMS & VIRTUALIZATION</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=debian,linux,windows,docker&theme=dark&perline=4" alt="Debian, Linux, Windows, Docker"/>
+<img src="https://img.shields.io/badge/VMware_ESXi_%2F_vCenter-0B1117?style=for-the-badge&logo=vmware&logoColor=D7FF38" alt="VMware ESXi and vCenter"/>
+<br/><sub>systemd-networkd · Windows Server · Virtualized environments</sub>
+</td>
+</tr>
+<tr>
+<td><b>NETWORK & SYSTEM SECURITY</b></td>
+<td>
+<img src="https://img.shields.io/badge/Fortinet-0B1117?style=for-the-badge&logo=fortinet&logoColor=D7FF38" alt="Fortinet"/>
+<img src="https://img.shields.io/badge/Cisco-0B1117?style=for-the-badge&logo=cisco&logoColor=D7FF38" alt="Cisco"/>
+<br/><sub>Firewalling · Network segmentation · High availability · Hardening fundamentals · Defensive monitoring</sub>
+</td>
+</tr>
+<tr>
+<td><b>AUTOMATION & OBSERVABILITY</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=py,bash,powershell,prometheus&theme=dark&perline=4" alt="Python, Bash, PowerShell, Prometheus"/>
+<img src="https://img.shields.io/badge/n8n-0B1117?style=for-the-badge&logo=n8n&logoColor=D7FF38" alt="n8n"/>
+<img src="https://img.shields.io/badge/Netdata-0B1117?style=for-the-badge&logo=netdata&logoColor=D7FF38" alt="Netdata"/>
+<br/><sub>Node Exporter · Glances · Monitoring workflows</sub>
+</td>
+</tr>
+<tr>
+<td><b>CLOUD & INFRASTRUCTURE</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=docker,linux,git&theme=dark&perline=3" alt="Docker, Linux, Git"/>
+<img src="https://img.shields.io/badge/VMware-0B1117?style=for-the-badge&logo=vmware&logoColor=D7FF38" alt="VMware"/>
+<br/><sub>Virtualized infrastructure · Hybrid infrastructure concepts · Infrastructure operations</sub>
+</td>
+</tr>
+<tr>
+<td><b>DEVELOPMENT & APIs</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=py,js,ts,django,react,vite&theme=dark&perline=6" alt="Python, JavaScript, TypeScript, Django, React, Vite"/>
+<br/><sub>Django REST Framework · REST APIs · JWT</sub>
+</td>
+</tr>
+<tr>
+<td><b>DATA & MESSAGING</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=postgres,redis,kafka&theme=dark&perline=3" alt="PostgreSQL, Redis, Apache Kafka"/>
+<img src="https://img.shields.io/badge/MariaDB-0B1117?style=for-the-badge&logo=mariadb&logoColor=D7FF38" alt="MariaDB"/>
+<br/><sub>Celery · SQL</sub>
+</td>
+</tr>
+<tr>
+<td><b>AI & WORKFLOW AUTOMATION</b></td>
+<td>
+<img src="https://img.shields.io/badge/CrewAI-0B1117?style=for-the-badge&labelColor=17232D" alt="CrewAI"/>
+<img src="https://img.shields.io/badge/LLM_Workflows-0B1117?style=for-the-badge&labelColor=17232D" alt="LLM workflows"/>
+</td>
+</tr>
+<tr>
+<td><b>IOT & EMBEDDED SYSTEMS</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="Arduino"/>
+<img src="https://img.shields.io/badge/ESP32-0B1117?style=for-the-badge&logo=espressif&logoColor=D7FF38" alt="ESP32"/>
+<img src="https://img.shields.io/badge/Bluetooth-0B1117?style=for-the-badge&logo=bluetooth&logoColor=D7FF38" alt="Bluetooth"/>
+<br/><sub>Sensor-based systems · Embedded control</sub>
+</td>
+</tr>
+</table>
 
 <sub>SKILL CONTEXT: technologies reflect a mix of hands-on practice, internship exposure, academic projects and ongoing learning. Logos identify tools and ecosystems; they do not imply equal proficiency or production-level expertise.</sub>
 
