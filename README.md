@@ -6,10 +6,10 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/houssam-essaki/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0b1114?style=for-the-badge&logo=linkedin&logoColor=00d9ff" alt="LinkedIn"/></a>
-<a href="https://houssamessaki.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE-0b1114?style=for-the-badge&logo=vercel&logoColor=d8ff38" alt="Portfolio"/></a>
-<a href="https://tryhackme.com/p/houssamessaki"><img src="https://img.shields.io/badge/TRYHACKME-PRACTICE-0b1114?style=for-the-badge&logo=tryhackme&logoColor=ff5e7e" alt="TryHackMe"/></a>
-<a href="https://github.com/HoussamEssaki"><img src="https://img.shields.io/badge/GITHUB-REPOSITORIES-0b1114?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub repositories"/></a>
+<a href="https://www.linkedin.com/in/houssam-essaki/"><b>[ LINKEDIN ↗ ]</b></a> &nbsp;·&nbsp;
+<a href="https://houssamessaki.vercel.app/"><b>[ PORTFOLIO ↗ ]</b></a> &nbsp;·&nbsp;
+<a href="https://tryhackme.com/p/houssamessaki"><b>[ TRYHACKME ↗ ]</b></a> &nbsp;·&nbsp;
+<a href="https://github.com/HoussamEssaki?tab=repositories"><b>[ REPOSITORIES ↗ ]</b></a>
 
 </div>
 
@@ -114,7 +114,7 @@ Exposure to enterprise infrastructure engineering in a multi-site, virtualized a
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/HoussamEssaki/enterprise-infrastructure-security-lab"><img src="https://raw.githubusercontent.com/HoussamEssaki/enterprise-infrastructure-security-lab/main/assets/project-cover.svg" width="100%" alt="Enterprise Infrastructure and Security Lab"/></a>
+<a href="https://github.com/HoussamEssaki/enterprise-infrastructure-security-lab"><img src="./assets/nexus-v3/project-infrastructure.svg" width="100%" alt="Enterprise Infrastructure and Security Lab"/></a>
 
 ### ENTERPRISE INFRASTRUCTURE & SECURITY LAB
 
@@ -129,7 +129,7 @@ A documented enterprise-style learning environment covering network segmentation
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/HoussamEssaki/ROBOT-VOITURE-SUIVEUR-DE-LIGNE-ET-DETECTEUR-D-OBSTACLE-AVEC-CONTROLE-BLUETOOTH/tree/Robot_Voiture"><img src="https://raw.githubusercontent.com/HoussamEssaki/ROBOT-VOITURE-SUIVEUR-DE-LIGNE-ET-DETECTEUR-D-OBSTACLE-AVEC-CONTROLE-BLUETOOTH/Robot_Voiture/assets/project-cover.svg" width="100%" alt="Embedded robotics project"/></a>
+<a href="https://github.com/HoussamEssaki/ROBOT-VOITURE-SUIVEUR-DE-LIGNE-ET-DETECTEUR-D-OBSTACLE-AVEC-CONTROLE-BLUETOOTH/tree/Robot_Voiture"><img src="./assets/nexus-v3/project-embedded.svg" width="100%" alt="Embedded robotics project"/></a>
 
 ### EMBEDDED SYSTEMS & CONNECTIVITY
 
@@ -176,7 +176,7 @@ Academic robotics project combining embedded control, sensor-driven behaviour an
 
 <div align="center">
 
-<a href="https://tryhackme.com/p/houssamessaki"><img src="https://img.shields.io/badge/TRYHACKME-LEARNING_PROFILE-0b1114?style=for-the-badge&logo=tryhackme&logoColor=d8ff38" alt="TryHackMe learning profile"/></a>
+[OPEN MY TRYHACKME LEARNING PROFILE ↗](https://tryhackme.com/p/houssamessaki)
 
 </div>
 
