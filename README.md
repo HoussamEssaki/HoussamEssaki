@@ -199,6 +199,14 @@ I’m looking for an environment where I can contribute to real infrastructure w
 
 <br/>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HoussamEssaki/HoussamEssaki/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HoussamEssaki/HoussamEssaki/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/HoussamEssaki/HoussamEssaki/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<br/>
+
 <img src="https://komarev.com/ghpvc/?username=HoussamEssaki&label=PROFILE%20VIEWS&color=D7FF38&style=for-the-badge" alt="Profile views"/>
 
 </div>
