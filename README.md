@@ -138,13 +138,13 @@ A collection of supervised academic projects, including work around AI and e-com
 </div>
 
 <table>
-<tr><th align="left" width="25%">DOMAIN</th><th align="left">TECHNOLOGIES & TOOLING</th></tr>
+<tr><th align="left" width="27%">DOMAIN</th><th align="left">TECHNOLOGIES & TOOLING</th></tr>
 <tr>
-<td><b>NETWORKING</b></td>
+<td><b>NETWORKS & CONNECTIVITY</b></td>
 <td>
 <img src="https://img.shields.io/badge/Cisco-0B1117?style=for-the-badge&logo=cisco&logoColor=D7FF38" alt="Cisco"/>
 <img src="https://img.shields.io/badge/FortiGate-0B1117?style=for-the-badge&logo=fortinet&logoColor=D7FF38" alt="FortiGate"/>
-<br/><sub>VLANs · 802.1Q · Rapid-PVST · HSRP · LACP / EtherChannel · Switching</sub>
+<br/><sub>Switching · VLANs · 802.1Q · Rapid-PVST · HSRP · LACP / EtherChannel · Network segmentation · WAN fundamentals</sub>
 </td>
 </tr>
 <tr>
@@ -152,63 +152,95 @@ A collection of supervised academic projects, including work around AI and e-com
 <td>
 <img src="https://skillicons.dev/icons?i=debian,linux,windows,docker&theme=dark&perline=4" alt="Debian, Linux, Windows, Docker"/>
 <img src="https://img.shields.io/badge/VMware_ESXi_%2F_vCenter-0B1117?style=for-the-badge&logo=vmware&logoColor=D7FF38" alt="VMware ESXi and vCenter"/>
-<br/><sub>systemd-networkd · Windows Server · Virtualized environments</sub>
+<br/><sub>Linux administration · Windows Server fundamentals · systemd-networkd · Virtualized environments · High availability concepts</sub>
 </td>
 </tr>
 <tr>
-<td><b>NETWORK & SYSTEM SECURITY</b></td>
+<td><b>INFRASTRUCTURE SECURITY</b></td>
 <td>
 <img src="https://img.shields.io/badge/Fortinet-0B1117?style=for-the-badge&logo=fortinet&logoColor=D7FF38" alt="Fortinet"/>
 <img src="https://img.shields.io/badge/Cisco-0B1117?style=for-the-badge&logo=cisco&logoColor=D7FF38" alt="Cisco"/>
-<br/><sub>Firewalling · Network segmentation · High availability · Hardening fundamentals · Defensive monitoring</sub>
+<br/><sub>Firewalling · Network defence · Segmentation · System hardening fundamentals · Secure infrastructure design</sub>
 </td>
 </tr>
 <tr>
-<td><b>AUTOMATION & OBSERVABILITY</b></td>
+<td><b>AUTOMATION & CONFIGURATION</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=py,bash,powershell,prometheus&theme=dark&perline=4" alt="Python, Bash, PowerShell, Prometheus"/>
+<img src="https://skillicons.dev/icons?i=py,bash,powershell&theme=dark&perline=3" alt="Python, Bash, PowerShell"/>
 <img src="https://img.shields.io/badge/n8n-0B1117?style=for-the-badge&logo=n8n&logoColor=D7FF38" alt="n8n"/>
-<img src="https://img.shields.io/badge/Netdata-0B1117?style=for-the-badge&logo=netdata&logoColor=D7FF38" alt="Netdata"/>
-<br/><sub>Node Exporter · Glances · Monitoring workflows</sub>
+<br/><sub>Infrastructure scripting · Workflow automation · Repeatable operational tasks</sub>
 </td>
 </tr>
 <tr>
-<td><b>CLOUD & INFRASTRUCTURE</b></td>
+<td><b>OBSERVABILITY & MONITORING</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=prometheus&theme=dark" alt="Prometheus"/>
+<img src="https://img.shields.io/badge/Netdata-0B1117?style=for-the-badge&logo=netdata&logoColor=D7FF38" alt="Netdata"/>
+<br/><sub>Node Exporter · Glances · Metrics · System monitoring · Alerting workflows</sub>
+</td>
+</tr>
+<tr>
+<td><b>CLOUD, DEVOPS & PLATFORM</b></td>
 <td>
 <img src="https://skillicons.dev/icons?i=docker,linux,git&theme=dark&perline=3" alt="Docker, Linux, Git"/>
 <img src="https://img.shields.io/badge/VMware-0B1117?style=for-the-badge&logo=vmware&logoColor=D7FF38" alt="VMware"/>
-<br/><sub>Virtualized infrastructure · Hybrid infrastructure concepts · Infrastructure operations</sub>
+<br/><sub>Virtualized infrastructure · Hybrid infrastructure concepts · Container fundamentals · Infrastructure operations · Cloud foundations</sub>
+</td>
+</tr>
+<tr>
+<td><b>SOC & DEFENSIVE OPERATIONS</b></td>
+<td>
+<img src="https://img.shields.io/badge/DEFENSIVE_SECURITY-0B1117?style=for-the-badge&logo=shield&logoColor=D7FF38" alt="Defensive security"/>
+<br/><sub>Security monitoring foundations · Log analysis concepts · Alert triage · Incident response lifecycle · Threat detection fundamentals</sub>
+</td>
+</tr>
+<tr>
+<td><b>PENTEST & SECURITY TESTING</b></td>
+<td>
+<img src="https://img.shields.io/badge/SECURITY_TESTING-0B1117?style=for-the-badge&logo= kali-linux&logoColor=D7FF38" alt="Security testing"/>
+<br/><sub>Authorized security testing · Reconnaissance concepts · Vulnerability assessment · Web and network security fundamentals</sub>
+</td>
+</tr>
+<tr>
+<td><b>GRC, IAM & ACCESS MANAGEMENT</b></td>
+<td>
+<img src="https://img.shields.io/badge/GRC-0B1117?style=for-the-badge&logo=googlesheets&logoColor=D7FF38" alt="Governance, risk and compliance"/>
+<img src="https://img.shields.io/badge/IAM-0B1117?style=for-the-badge&logo=keycloak&logoColor=D7FF38" alt="Identity and access management"/>
+<br/><sub>ISO 27001 awareness · Risk and compliance fundamentals · Identity lifecycle · Authentication · Authorization · Access control concepts</sub>
+</td>
+</tr>
+<tr>
+<td><b>AI FOR SECURITY & AUTOMATION</b></td>
+<td>
+<img src="https://img.shields.io/badge/CrewAI-0B1117?style=for-the-badge&labelColor=17232D" alt="CrewAI"/>
+<img src="https://img.shields.io/badge/LLM_WORKFLOWS-0B1117?style=for-the-badge&labelColor=17232D" alt="LLM workflows"/>
+<img src="https://skillicons.dev/icons?i=py&theme=dark" alt="Python"/>
+<br/><sub>AI-assisted workflows · LLM-integrated automation · Exploring AI applications for security operations</sub>
+</td>
+</tr>
+<tr>
+<td><b>DATA, MESSAGING & STORAGE</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=postgres,redis&theme=dark&perline=2" alt="PostgreSQL and Redis"/>
+<img src="https://img.shields.io/badge/Apache_Kafka-0B1117?style=for-the-badge&logo=apachekafka&logoColor=D7FF38" alt="Apache Kafka"/>
+<img src="https://img.shields.io/badge/MariaDB-0B1117?style=for-the-badge&logo=mariadb&logoColor=D7FF38" alt="MariaDB"/>
+<br/><sub>SQL · Celery · Event streaming fundamentals</sub>
 </td>
 </tr>
 <tr>
 <td><b>DEVELOPMENT & APIs</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=py,js,ts,django,react,vite&theme=dark&perline=6" alt="Python, JavaScript, TypeScript, Django, React, Vite"/>
-<br/><sub>Django REST Framework · REST APIs · JWT</sub>
+<img src="https://skillicons.dev/icons?i=js,ts,django,react,vite&theme=dark&perline=5" alt="JavaScript, TypeScript, Django, React, Vite"/>
+<br/><sub>Django REST Framework · REST APIs · JWT · Academic application development</sub>
 </td>
 </tr>
 <tr>
-<td><b>DATA & MESSAGING</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=postgres,redis,kafka&theme=dark&perline=3" alt="PostgreSQL, Redis, Apache Kafka"/>
-<img src="https://img.shields.io/badge/MariaDB-0B1117?style=for-the-badge&logo=mariadb&logoColor=D7FF38" alt="MariaDB"/>
-<br/><sub>Celery · SQL</sub>
-</td>
-</tr>
-<tr>
-<td><b>AI & WORKFLOW AUTOMATION</b></td>
-<td>
-<img src="https://img.shields.io/badge/CrewAI-0B1117?style=for-the-badge&labelColor=17232D" alt="CrewAI"/>
-<img src="https://img.shields.io/badge/LLM_Workflows-0B1117?style=for-the-badge&labelColor=17232D" alt="LLM workflows"/>
-</td>
-</tr>
-<tr>
-<td><b>IOT & EMBEDDED SYSTEMS</b></td>
+<td><b>IOT & EMBEDDED CONNECTIVITY</b></td>
 <td>
 <img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="Arduino"/>
 <img src="https://img.shields.io/badge/ESP32-0B1117?style=for-the-badge&logo=espressif&logoColor=D7FF38" alt="ESP32"/>
 <img src="https://img.shields.io/badge/Bluetooth-0B1117?style=for-the-badge&logo=bluetooth&logoColor=D7FF38" alt="Bluetooth"/>
-<br/><sub>Sensor-based systems · Embedded control</sub>
+<br/><sub>Sensor-based systems · Embedded control · Device connectivity</sub>
 </td>
 </tr>
 </table>
