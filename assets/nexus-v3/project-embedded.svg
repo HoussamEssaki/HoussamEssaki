@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Embedded systems and connectivity project">
+<defs><pattern id="g" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#26373d"/></pattern></defs>
+<rect width="1200" height="360" fill="#10191e"/><rect width="1200" height="360" fill="url(#g)"/><path d="M0 0H1200V12H0Z" fill="#00d9ff"/>
+<g fill="none" stroke="#d8ff38" stroke-width="3"><rect x="760" y="95" width="170" height="170" rx="12"/><path d="M845 95V55M845 265V305M760 180H710M930 180H980M800 95L780 60M890 265L910 300"/><circle cx="845" cy="180" r="36"/><path d="M830 180H860M845 165V195"/></g>
+<g fill="#eaf1ef" font-family="monospace" text-anchor="middle"><text x="845" y="225" font-size="14">ESP / CONTROL</text><text x="845" y="38" font-size="13">WIRELESS LINK</text><text x="1005" y="185" font-size="13">BLUETOOTH</text><text x="685" y="185" font-size="13">SENSORS</text></g>
+<text x="64" y="105" fill="#00d9ff" font-family="monospace" font-size="17" letter-spacing="4">ACADEMIC BUILD / 02</text><text x="60" y="190" fill="#f2f5f4" font-family="Arial,sans-serif" font-size="52" font-weight="800">EMBEDDED</text><text x="60" y="250" fill="#f2f5f4" font-family="Arial,sans-serif" font-size="52" font-weight="800">CONNECTIVITY</text><text x="64" y="305" fill="#91a3a9" font-family="monospace" font-size="17" letter-spacing="2">SENSING / CONTROL / BLUETOOTH</text>
+</svg>
