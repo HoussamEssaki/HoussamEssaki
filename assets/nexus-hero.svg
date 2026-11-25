@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="520" viewBox="0 0 1600 520">
+<defs><pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#263238" stroke-width="1"/></pattern><linearGradient id="a" x1="0" x2="1"><stop stop-color="#00E5FF"/><stop offset="1" stop-color="#B7FF3C"/></linearGradient></defs>
+<rect width="1600" height="520" fill="#090D10"/><rect width="1600" height="520" fill="url(#g)" opacity=".8"/>
+<path d="M0 420H420L510 330H760L850 420H1600" fill="none" stroke="#00E5FF" stroke-width="2" opacity=".5"/>
+<path d="M1080 0V90L1190 200H1600" fill="none" stroke="#B7FF3C" stroke-width="2" opacity=".45"/>
+<g fill="none" stroke="url(#a)" stroke-width="2"><circle cx="1220" cy="260" r="120"/><circle cx="1220" cy="260" r="82"/><circle cx="1220" cy="260" r="42"/><path d="M1100 260H1340M1220 140V380M1136 176L1304 344M1304 176L1136 344"/></g>
+<g fill="#00E5FF"><circle cx="1220" cy="140" r="6"/><circle cx="1340" cy="260" r="6"/><circle cx="1220" cy="380" r="6"/><circle cx="1100" cy="260" r="6"/></g>
+<rect x="70" y="62" width="250" height="34" fill="#FFE600"/><text x="88" y="85" fill="#090D10" font-family="monospace" font-size="17" font-weight="800" letter-spacing="3">NEXUS / FIELD SYSTEMS</text>
+<text x="70" y="220" fill="#F5F7F8" font-family="Arial,sans-serif" font-size="92" font-weight="900" letter-spacing="-3">INFRASTRUCTURE</text>
+<text x="70" y="318" fill="url(#a)" font-family="Arial,sans-serif" font-size="92" font-weight="900" letter-spacing="-3">IN MOTION.</text>
+<text x="76" y="374" fill="#D1D8DC" font-family="monospace" font-size="22" letter-spacing="2">NETWORKS · SYSTEMS · CLOUD · SECURITY</text>
+<text x="76" y="454" fill="#FFE600" font-family="monospace" font-size="17">DESIGN / AUTOMATE / OBSERVE / DEFEND</text>
+<text x="1520" y="486" text-anchor="end" fill="#7C8A91" font-family="monospace" font-size="14">H. ESSAKI // 2026</text>
+</svg>
