@@ -134,57 +134,79 @@ A collection of supervised academic projects, including work around AI and e-com
 ---
 
 <div align="center">
-<img src="./assets/command-center/section-stack.svg" width="100%" alt="Engineering toolkit"/>
+<img src="./assets/command-center/section-stack.svg" width="100%" alt="Infrastructure, systems and cybersecurity engineering toolkit"/>
 </div>
 
+## 03 / ENGINEERING TOOLKIT
+
+<sub>CORE ENGINEERING DOMAINS · TECHNOLOGIES · SECURITY SPECIALIZATIONS · LEARNING ECOSYSTEM</sub>
+
 <table>
-<tr><th align="left" width="27%">DOMAIN</th><th align="left">TECHNOLOGIES & TOOLING</th></tr>
+<tr><th align="left" width="27%">DOMAIN</th><th align="left">TECHNOLOGIES, TOOLING & ENGINEERING SCOPE</th></tr>
 <tr>
 <td><b>NETWORKS & CONNECTIVITY</b></td>
 <td>
 <img src="https://img.shields.io/badge/Cisco-0B1117?style=for-the-badge&logo=cisco&logoColor=D7FF38" alt="Cisco"/>
-<img src="https://img.shields.io/badge/FortiGate-0B1117?style=for-the-badge&logo=fortinet&logoColor=D7FF38" alt="FortiGate"/>
-<br/><sub>Switching · VLANs · 802.1Q · Rapid-PVST · HSRP · LACP / EtherChannel · Network segmentation · WAN fundamentals</sub>
+<img src="https://img.shields.io/badge/Fortinet-0B1117?style=for-the-badge&logo=fortinet&logoColor=00E5FF" alt="Fortinet"/>
+<img src="https://img.shields.io/badge/Wireshark-0B1117?style=for-the-badge&logo=wireshark&logoColor=00E5FF" alt="Wireshark"/>
+<img src="https://img.shields.io/badge/Packet_Tracer-0B1117?style=for-the-badge&logo=cisco&logoColor=D7FF38" alt="Cisco Packet Tracer"/>
+<br/><sub>OSI · TCP/IP · Switching · VLANs · 802.1Q · STP / Rapid-PVST · HSRP · LACP / EtherChannel · Routing · WAN · MPLS · BGP · PBR · Traffic engineering · QoS · IP telephony · SDN · Network programming</sub>
 </td>
 </tr>
 <tr>
-<td><b>SYSTEMS & VIRTUALIZATION</b></td>
+<td><b>SYSTEMS ADMINISTRATION</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=debian,linux,windows,docker&theme=dark&perline=4" alt="Debian, Linux, Windows, Docker"/>
-<img src="https://img.shields.io/badge/VMware_ESXi_%2F_vCenter-0B1117?style=for-the-badge&logo=vmware&logoColor=D7FF38" alt="VMware ESXi and vCenter"/>
-<br/><sub>Linux administration · Windows Server fundamentals · systemd-networkd · Virtualized environments · High availability concepts</sub>
+<img src="https://skillicons.dev/icons?i=debian,linux,windows&theme=dark&perline=3" alt="Debian, Linux and Windows"/>
+<img src="https://img.shields.io/badge/Windows_Server-0B1117?style=for-the-badge&logo=windows&logoColor=00E5FF" alt="Windows Server"/>
+<br/><sub>Linux administration · Windows Server administration · Operating systems · Network services · systemd-networkd · Shell environments · System hardening · Service management · Troubleshooting</sub>
+</td>
+</tr>
+<tr>
+<td><b>VIRTUALIZATION & DATA CENTER</b></td>
+<td>
+<img src="https://img.shields.io/badge/VMware_ESXi-0B1117?style=for-the-badge&logo=vmware&logoColor=D7FF38" alt="VMware ESXi"/>
+<img src="https://img.shields.io/badge/vCenter-0B1117?style=for-the-badge&logo=vmware&logoColor=00E5FF" alt="VMware vCenter"/>
+<img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker"/>
+<br/><sub>VMware ESXi · vCenter · Virtual machines · Virtual networking · Resource management · High availability concepts · Data-center architecture · Containers · Virtualized and hybrid environments</sub>
 </td>
 </tr>
 <tr>
 <td><b>INFRASTRUCTURE SECURITY</b></td>
 <td>
-<img src="https://img.shields.io/badge/Fortinet-0B1117?style=for-the-badge&logo=fortinet&logoColor=D7FF38" alt="Fortinet"/>
-<img src="https://img.shields.io/badge/Cisco-0B1117?style=for-the-badge&logo=cisco&logoColor=D7FF38" alt="Cisco"/>
-<br/><sub>Firewalling · Network defence · Segmentation · System hardening fundamentals · Secure infrastructure design</sub>
+<img src="https://img.shields.io/badge/FortiGate-0B1117?style=for-the-badge&logo=fortinet&logoColor=D7FF38" alt="FortiGate"/>
+<img src="https://img.shields.io/badge/Cisco_Security-0B1117?style=for-the-badge&logo=cisco&logoColor=00E5FF" alt="Cisco security"/>
+<img src="https://img.shields.io/badge/OPSWAT-0B1117?style=for-the-badge&logoColor=D7FF38" alt="OPSWAT"/>
+<br/><sub>Firewalls · Network defence · Segmentation · Secure architecture · System hardening · Security controls · Cryptography fundamentals · Enterprise security</sub>
 </td>
 </tr>
 <tr>
 <td><b>AUTOMATION & CONFIGURATION</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=py,bash,powershell&theme=dark&perline=3" alt="Python, Bash, PowerShell"/>
-<img src="https://img.shields.io/badge/n8n-0B1117?style=for-the-badge&logo=n8n&logoColor=D7FF38" alt="n8n"/>
-<br/><sub>Infrastructure scripting · Workflow automation · Repeatable operational tasks</sub>
+<img src="https://skillicons.dev/icons?i=python,bash,powershell&theme=dark&perline=3" alt="Python, Bash and PowerShell"/>
+<img src="https://img.shields.io/badge/n8n-0B1117?style=for-the-badge&logo=n8n&logoColor=FF647C" alt="n8n"/>
+<img src="https://img.shields.io/badge/YAML_／_JSON-0B1117?style=for-the-badge&logo=yaml&logoColor=D7FF38" alt="YAML and JSON"/>
+<br/><sub>Python for security, scripting and automation · Bash for Linux · PowerShell for Windows · SQL · YAML / JSON · Infrastructure scripting · Workflow automation · Repeatable operations</sub>
 </td>
 </tr>
 <tr>
 <td><b>OBSERVABILITY & MONITORING</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=prometheus&theme=dark" alt="Prometheus"/>
-<img src="https://img.shields.io/badge/Netdata-0B1117?style=for-the-badge&logo=netdata&logoColor=D7FF38" alt="Netdata"/>
-<br/><sub>Node Exporter · Glances · Metrics · System monitoring · Alerting workflows</sub>
+<img src="https://img.shields.io/badge/Prometheus-0B1117?style=for-the-badge&logo=prometheus&logoColor=FF647C" alt="Prometheus"/>
+<img src="https://img.shields.io/badge/Netdata-0B1117?style=for-the-badge&logo=netdata&logoColor=00E5FF" alt="Netdata"/>
+<img src="https://img.shields.io/badge/Node_Exporter-0B1117?style=for-the-badge&logo=prometheus&logoColor=D7FF38" alt="Node Exporter"/>
+<img src="https://img.shields.io/badge/Glances-0B1117?style=for-the-badge&logo=linux&logoColor=00E5FF" alt="Glances"/>
+<br/><sub>Metrics · Logs · System monitoring · Infrastructure health · Alerting workflows · Operational visibility · Performance monitoring · Troubleshooting</sub>
 </td>
 </tr>
 <tr>
-<td><b>CLOUD, DEVOPS & PLATFORM</b></td>
+<td><b>CLOUD, DEVOPS & PLATFORM ENGINEERING</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=docker,linux,git&theme=dark&perline=3" alt="Docker, Linux, Git"/>
-<img src="https://img.shields.io/badge/VMware-0B1117?style=for-the-badge&logo=vmware&logoColor=D7FF38" alt="VMware"/>
-<br/><sub>Virtualized infrastructure · Hybrid infrastructure concepts · Container fundamentals · Infrastructure operations · Cloud foundations</sub>
+<img src="https://skillicons.dev/icons?i=linux,docker,git&theme=dark&perline=3" alt="Linux, Docker and Git"/>
+<img src="https://img.shields.io/badge/AWS-0B1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS"/>
+<img src="https://img.shields.io/badge/Microsoft_Azure-0B1117?style=for-the-badge&logo=microsoftazure&logoColor=00E5FF" alt="Microsoft Azure"/>
+<img src="https://img.shields.io/badge/Google_Cloud-0B1117?style=for-the-badge&logo=googlecloud&logoColor=D7FF38" alt="Google Cloud"/>
+<img src="https://img.shields.io/badge/Oracle_Cloud-0B1117?style=for-the-badge&logo=oracle&logoColor=FF647C" alt="Oracle Cloud"/>
+<br/><sub>Cloud foundations · AWS · Azure · Google Cloud Platform · Oracle Cloud Infrastructure · Hybrid cloud · Docker · Linux · Git · CI/CD concepts · Infrastructure operations · DevOps / DevSecOps foundations</sub>
 </td>
 </tr>
 <tr>
@@ -194,8 +216,8 @@ A collection of supervised academic projects, including work around AI and e-com
 <img src="https://img.shields.io/badge/Splunk-0B1117?style=for-the-badge&logo=splunk&logoColor=00E5FF" alt="Splunk"/>
 <img src="https://img.shields.io/badge/Wireshark-0B1117?style=for-the-badge&logo=wireshark&logoColor=00E5FF" alt="Wireshark"/>
 <img src="https://img.shields.io/badge/Sysmon-0B1117?style=for-the-badge&logo=microsoft&logoColor=D7FF38" alt="Sysmon"/>
-<img src="https://img.shields.io/badge/Event_Viewer-0B1117?style=for-the-badge&logo=windows&logoColor=00E5FF" alt="Windows Event Viewer"/>
-<br/><sub>SIEM exploration · Endpoint and system telemetry · Network packet analysis · Log review · Alert triage · Incident response fundamentals</sub>
+<img src="https://img.shields.io/badge/Windows_Event_Logs-0B1117?style=for-the-badge&logo=windows&logoColor=00E5FF" alt="Windows Event Logs"/>
+<br/><sub>SIEM concepts · Security monitoring · Log analysis · Endpoint telemetry · Network traffic analysis · Alert triage · Threat detection · Incident response lifecycle · Blue Team operations</sub>
 </td>
 </tr>
 <tr>
@@ -206,57 +228,157 @@ A collection of supervised academic projects, including work around AI and e-com
 <img src="https://img.shields.io/badge/Metasploit-0B1117?style=for-the-badge&logo=metasploit&logoColor=00E5FF" alt="Metasploit"/>
 <img src="https://img.shields.io/badge/OWASP_ZAP-0B1117?style=for-the-badge&logo=owasp&logoColor=D7FF38" alt="OWASP ZAP"/>
 <img src="https://img.shields.io/badge/Gobuster-0B1117?style=for-the-badge&logo=kalilinux&logoColor=00E5FF" alt="Gobuster"/>
-<br/><sub>Authorized lab testing · Network and web assessment · Reconnaissance and content discovery concepts · Vulnerability validation</sub>
+<br/><sub>Authorized lab environments · Security testing methodology · Network and web assessment · Reconnaissance concepts · Vulnerability assessment · Secure testing practices · OWASP</sub>
 </td>
 </tr>
 <tr>
-<td><b>GRC, IAM & ACCESS MANAGEMENT</b></td>
+<td><b>GRC, RISK & COMPLIANCE</b></td>
 <td>
 <img src="https://img.shields.io/badge/ISO_27001-0B1117?style=for-the-badge&logo=iso&logoColor=D7FF38" alt="ISO 27001"/>
-<img src="https://img.shields.io/badge/Risk_Assessment-0B1117?style=for-the-badge&logo=checkmarx&logoColor=00E5FF" alt="Risk assessment"/>
+<img src="https://img.shields.io/badge/MEHARI-0B1117?style=for-the-badge&logoColor=00E5FF" alt="MEHARI"/>
+<img src="https://img.shields.io/badge/MITRE_ATT%26CK-0B1117?style=for-the-badge&logo=mitre&logoColor=FF647C" alt="MITRE ATT&CK"/>
+<br/><sub>Governance · Risk management · Compliance · ISMS · ISO 2700x · ISO 27001 · MEHARI · SIMES · Security audits · Risk assessment · Security policies · MITRE ATT&CK knowledge base</sub>
+</td>
+</tr>
+<tr>
+<td><b>IAM & ACCESS MANAGEMENT</b></td>
+<td>
 <img src="https://img.shields.io/badge/Active_Directory-0B1117?style=for-the-badge&logo=microsoft&logoColor=00E5FF" alt="Active Directory"/>
+<img src="https://img.shields.io/badge/Microsoft_Entra_ID-0B1117?style=for-the-badge&logo=microsoftazure&logoColor=D7FF38" alt="Microsoft Entra ID"/>
 <img src="https://img.shields.io/badge/BloodHound-0B1117?style=for-the-badge&logo=neo4j&logoColor=FF647C" alt="BloodHound"/>
-<img src="https://img.shields.io/badge/Entra_ID-0B1117?style=for-the-badge&logo=microsoftazure&logoColor=D7FF38" alt="Microsoft Entra ID"/>
-<br/><sub>ISMS and ISO 27001 foundations · Risk and audit concepts · Directory services · Identity lifecycle · Authentication · Authorization · Access control</sub>
+<br/><sub>Identity lifecycle · Directory services · Authentication · Authorization · Access control · Privileged access concepts · Identity governance · Active Directory security</sub>
 </td>
 </tr>
 <tr>
 <td><b>AI FOR SECURITY & AUTOMATION</b></td>
 <td>
-<img src="https://img.shields.io/badge/CrewAI-0B1117?style=for-the-badge&labelColor=17232D" alt="CrewAI"/>
-<img src="https://img.shields.io/badge/LLM_WORKFLOWS-0B1117?style=for-the-badge&labelColor=17232D" alt="LLM workflows"/>
-<img src="https://skillicons.dev/icons?i=py&theme=dark" alt="Python"/>
-<br/><sub>AI-assisted workflows · LLM-integrated automation · Exploring AI applications for security operations</sub>
+<img src="https://img.shields.io/badge/Python-0B1117?style=for-the-badge&logo=python&logoColor=D7FF38" alt="Python"/>
+<img src="https://img.shields.io/badge/CrewAI-0B1117?style=for-the-badge&logoColor=00E5FF" alt="CrewAI"/>
+<img src="https://img.shields.io/badge/LLM_Workflows-0B1117?style=for-the-badge&logo=openai&logoColor=F4F7F8" alt="LLM workflows"/>
+<br/><sub>AI-assisted security workflows · LLM-integrated automation · Security operations support · Intelligent log and alert analysis concepts · Agentic workflow orchestration</sub>
 </td>
 </tr>
 <tr>
-<td><b>DATA, MESSAGING & STORAGE</b></td>
+<td><b>INFRASTRUCTURE DATA & SERVICES</b></td>
 <td>
 <img src="https://skillicons.dev/icons?i=postgres,redis&theme=dark&perline=2" alt="PostgreSQL and Redis"/>
 <img src="https://img.shields.io/badge/Apache_Kafka-0B1117?style=for-the-badge&logo=apachekafka&logoColor=D7FF38" alt="Apache Kafka"/>
-<img src="https://img.shields.io/badge/MariaDB-0B1117?style=for-the-badge&logo=mariadb&logoColor=D7FF38" alt="MariaDB"/>
-<br/><sub>SQL · Celery · Event streaming fundamentals</sub>
-</td>
-</tr>
-<tr>
-<td><b>DEVELOPMENT & APIs</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=js,ts,django,react,vite&theme=dark&perline=5" alt="JavaScript, TypeScript, Django, React, Vite"/>
-<br/><sub>Django REST Framework · REST APIs · JWT · Academic application development</sub>
-</td>
-</tr>
-<tr>
-<td><b>IOT & EMBEDDED CONNECTIVITY</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="Arduino"/>
-<img src="https://img.shields.io/badge/ESP32-0B1117?style=for-the-badge&logo=espressif&logoColor=D7FF38" alt="ESP32"/>
-<img src="https://img.shields.io/badge/Bluetooth-0B1117?style=for-the-badge&logo=bluetooth&logoColor=D7FF38" alt="Bluetooth"/>
-<br/><sub>Sensor-based systems · Embedded control · Device connectivity</sub>
+<img src="https://img.shields.io/badge/MariaDB-0B1117?style=for-the-badge&logo=mariadb&logoColor=00E5FF" alt="MariaDB"/>
+<img src="https://img.shields.io/badge/Oracle_Database-0B1117?style=for-the-badge&logo=oracle&logoColor=FF647C" alt="Oracle Database"/>
+<br/><sub>Relational databases · SQL · Database administration foundations · Semi-structured data · Object-oriented databases · Messaging · Event streaming · Infrastructure service data</sub>
 </td>
 </tr>
 </table>
 
-<sub>SKILL CONTEXT: technologies reflect a mix of hands-on practice, internship exposure, academic projects and ongoing learning. Logos identify tools and ecosystems; they do not imply equal proficiency or production-level expertise.</sub>
+### PROGRAMMING & INFRASTRUCTURE LANGUAGES
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,bash,powershell,sql,js,yaml&theme=dark&perline=6" alt="Python, Bash, PowerShell, SQL, JavaScript and YAML"/>
+</div>
+
+| CORE LANGUAGES | EXTENDED TECHNICAL TOOLBOX |
+|:--|:--|
+| **Python** — security scripting, automation and tooling | Go · Ruby · Rust |
+| **Bash** — Linux administration and automation | R · Perl |
+| **PowerShell** — Windows administration and automation | C · C++ · Assembly |
+| **SQL** — databases and data operations | Excel |
+| **JavaScript** — scripting and integrations | YAML · JSON |
+
+### CYBERSECURITY, INFRASTRUCTURE & HANDS-ON LAB PLATFORMS
+
+<sub>TRAINING ENVIRONMENTS · GUIDED LABS · BLUE TEAM · RED TEAM · NETWORKS · SYSTEMS</sub>
+
+| FOCUS | PLATFORMS & RESOURCES |
+|:--|:--|
+| **Cybersecurity labs & pathways** | [TryHackMe](https://tryhackme.com/) · [Hack The Box](https://hackthebox.com/) · [Cybrary](https://www.cybrary.it/) · [INE Security](https://ine.com/security) · [TCM Security Academy](https://academy.tcm-sec.com/) · [RangeForce](https://www.rangeforce.com/) · [Immersive Labs](https://www.immersivelabs.com/) |
+| **SOC & Blue Team** | [LetsDefend](https://letsdefend.io/) · [Blue Team Labs Online](https://blueteamlabs.online/) · [CyberDefenders](https://cyberdefenders.org/) · [Security Blue Team](https://www.centri.org/) · [OPSWAT Academy](https://opswatacademy.com/) |
+| **Pentest & AppSec** | [PortSwigger Web Security Academy](https://portswigger.net/) · [OWASP](https://owasp.org/) · [PentesterLab](https://pentesterlab.com/) · [VulnHub](https://www.vulnhub.com/) · [VulnMachines](https://www.vulnmachines.com/) · [Hackviser](https://hackviser.com/) · [Hacksplaining](https://www.hacksplaining.com/) · [OWASP Juice Shop](https://juice-shop.herokuapp.com/) |
+| **CTF, Linux & security practice** | [Root-Me](https://www.root-me.org/) · [OverTheWire](https://overthewire.org/wargames/) · [picoCTF](https://picoctf.org/) · [CryptoHack](https://cryptohack.org/) · [HackMyVM](https://hackmyvm.eu/) · [EchoCTF](https://echoctf.com/) · [Try2Hack](https://try2hack.me/) |
+| **Security research & frameworks** | [MITRE ATT&CK](https://attack.mitre.org/) · [HackerOne](https://www.hackerone.com/) · [Hacker101](https://www.hacker101.com/) · [SANS Institute](https://www.sans.org/) · [EC-Council](https://www.eccouncil.org/) · [InfoSec Institute](https://www.infosecinstitute.com/) · [Red Team Leaders](https://courses.redteamleaders.com/catalog) |
+| **Additional technical learning** | [LabEx](https://labex.io/) · [Pluralsight](https://www.pluralsight.com/) · [KodeKloud](https://kodekloud.com/) · [HackerRank](https://www.hackerrank.com/) · [HackerEarth](https://www.hackerearth.com/) · [Hacker Academy](https://hackersacademy.com/) · [Hackr.io](https://hackr.io/) · [HacksNation](https://hacksnation.com/) · [Hack the Planet](https://hacktheplanet.fr/) |
+
+### VENDOR ACADEMIES, CLOUD & PROFESSIONAL LEARNING
+
+<div align="center">
+<a href="https://www.netacad.com/"><img src="https://img.shields.io/badge/CISCO-NETWORKING_ACADEMY-0B1117?style=for-the-badge&logo=cisco&logoColor=00E5FF" alt="Cisco Networking Academy"/></a>
+<a href="https://learn.microsoft.com/"><img src="https://img.shields.io/badge/MICROSOFT-LEARN-0B1117?style=for-the-badge&logo=microsoft&logoColor=00E5FF" alt="Microsoft Learn"/></a>
+<a href="https://aws.amazon.com/training/"><img src="https://img.shields.io/badge/AWS-TRAINING-0B1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS Training"/></a>
+<a href="https://cloud.google.com/learn"><img src="https://img.shields.io/badge/GOOGLE_CLOUD-LEARNING-0B1117?style=for-the-badge&logo=googlecloud&logoColor=D7FF38" alt="Google Cloud Learning"/></a>
+<a href="https://www.ibm.com/training/"><img src="https://img.shields.io/badge/IBM-SKILLS_BUILD-0B1117?style=for-the-badge&logo=ibm&logoColor=00E5FF" alt="IBM SkillsBuild"/></a>
+<a href="https://education.oracle.com/"><img src="https://img.shields.io/badge/ORACLE-MY_LEARN-0B1117?style=for-the-badge&logo=oracle&logoColor=FF647C" alt="Oracle MyLearn"/></a>
+<a href="https://www.splunk.com/en_us/training.html"><img src="https://img.shields.io/badge/SPLUNK-TRAINING-0B1117?style=for-the-badge&logo=splunk&logoColor=D7FF38" alt="Splunk Training"/></a>
+<a href="https://training.fortinet.com/"><img src="https://img.shields.io/badge/FORTINET-TRAINING_INSTITUTE-0B1117?style=for-the-badge&logo=fortinet&logoColor=00E5FF" alt="Fortinet Training Institute"/></a>
+<a href="https://www.comptia.org/"><img src="https://img.shields.io/badge/COMPTIA-LEARNING-0B1117?style=for-the-badge&logo=comptia&logoColor=D7FF38" alt="CompTIA"/></a>
+<a href="https://training.linuxfoundation.org/"><img src="https://img.shields.io/badge/LINUX_FOUNDATION-TRAINING-0B1117?style=for-the-badge&logo=linux&logoColor=F4F7F8" alt="Linux Foundation"/></a>
+<a href="https://www.paloaltonetworks.com/services/education"><img src="https://img.shields.io/badge/PALO_ALTO-EDUCATION-0B1117?style=for-the-badge&logo=paloaltonetworks&logoColor=FF647C" alt="Palo Alto Networks Education"/></a>
+<a href="https://www.redhat.com/en/services/training-and-certification"><img src="https://img.shields.io/badge/RED_HAT-TRAINING-0B1117?style=for-the-badge&logo=redhat&logoColor=FF647C" alt="Red Hat Training"/></a>
+<a href="https://www.huawei.com/en/tech-academy"><img src="https://img.shields.io/badge/HUAWEI-LEARNING-0B1117?style=for-the-badge&logo=huawei&logoColor=FF647C" alt="Huawei Learning"/></a>
+<a href="https://www.broadcom.com/support/education-training"><img src="https://img.shields.io/badge/BROADCOM-TRAINING-0B1117?style=for-the-badge&logo=broadcom&logoColor=00E5FF" alt="Broadcom Training"/></a>
+<a href="https://www.isc2.org/"><img src="https://img.shields.io/badge/ISC2-CERTIFICATIONS-0B1117?style=for-the-badge&logo=isc2&logoColor=D7FF38" alt="ISC2"/></a>
+<a href="https://alison.com/"><img src="https://img.shields.io/badge/ALISON-LEARNING-0B1117?style=for-the-badge&logoColor=00E5FF" alt="Alison"/></a>
+<a href="https://skillfront.com/"><img src="https://img.shields.io/badge/SKILLFRONT-LEARNING-0B1117?style=for-the-badge&logoColor=D7FF38" alt="SkillFront"/></a>
+</div>
+
+### PROFESSIONAL CERTIFICATE PATHWAYS
+
+- **Google Cybersecurity Professional Certificate** — [Coursera](https://www.coursera.org/professional-certificates/google-cybersecurity)
+- **IBM Cybersecurity Analyst Professional Certificate** — [Coursera](https://www.coursera.org/professional-certificates/ibm-cybersecurity-analyst)
+- **Microsoft Cybersecurity Analyst Professional Certificate** — [Coursera](https://www.coursera.org/professional-certificates/microsoft-cybersecurity-analyst)
+
+### ACADEMIC ENGINEERING FOUNDATIONS
+
+<details>
+<summary><b>NETWORKS, TELECOMMUNICATIONS & CONNECTIVITY</b></summary>
+
+- Network architectures: OSI and TCP/IP models
+- Computer network interconnection and network equipment
+- Routing and switching · Cisco CCNA / CCNP knowledge domains
+- Data transmission · WAN technologies · Mobile networks
+- Network programming · Advanced networking
+- PBR · MPLS · BGP · Traffic engineering
+- IP telephony · QoS · SDN infrastructure deployment
+- IoT connectivity fundamentals
+
+</details>
+
+<details>
+<summary><b>SYSTEMS, VIRTUALIZATION & CLOUD</b></summary>
+
+- Windows systems administration
+- Linux systems administration
+- Network services administration
+- Operating systems
+- Virtualization and Cloud Computing
+- Virtualized infrastructure and hybrid environments
+
+</details>
+
+<details>
+<summary><b>CYBERSECURITY, CRYPTOGRAPHY & GOVERNANCE</b></summary>
+
+- Systems and network security
+- Security and cryptography
+- Enterprise security
+- Information systems governance and audit
+- ISO 2700x · MEHARI · SIMES
+- Security risk, compliance and control foundations
+
+</details>
+
+<details>
+<summary><b>PROGRAMMING, AUTOMATION & DATA SYSTEMS</b></summary>
+
+- Object-oriented programming with Python
+- Python scripting and task automation
+- Shell programming with Bash
+- Relational database systems and RDBMS
+- Semi-structured databases
+- Object-oriented databases
+- Oracle database administration
+
+</details>
+
+<sub>TOOLKIT SCOPE: this section maps the infrastructure and cybersecurity ecosystem I study, practise in labs, encounter in academic work or explore through training. Inclusion does not claim professional mastery, certification or production experience. Practical depth varies by technology.</sub>
 
 ---
 
