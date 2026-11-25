@@ -221,12 +221,7 @@ Microsoft Azure · Microsoft Entra ID · Azure RBAC · AWS fundamentals · GCP f
   <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoussamEssaki&layout=compact&hide_border=true&bg_color=0D1216&title_color=00E5FF&text_color=E8EEF0" alt="Most used languages"/>
   <br/><br/>
   <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=HoussamEssaki&bg_color=0D1216&color=FFE600&line=00E5FF&point=B7FF3C&area=true&hide_border=true" alt="GitHub activity graph"/>
-  <br/><br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HoussamEssaki/HoussamEssaki/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HoussamEssaki/HoussamEssaki/output/github-contribution-grid-snake.svg"/>
-    <img alt="Contribution graph animation" src="https://raw.githubusercontent.com/HoussamEssaki/HoussamEssaki/output/github-contribution-grid-snake-dark.svg"/>
-  </picture>
+
 </div>
 
 ---
