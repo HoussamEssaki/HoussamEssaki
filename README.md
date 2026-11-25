@@ -137,16 +137,19 @@ A collection of supervised academic projects, including work around AI and e-com
 <img src="./assets/command-center/section-stack.svg" width="100%" alt="Engineering toolkit"/>
 </div>
 
-| DOMAIN | TOOLS & TECHNOLOGIES |
+| DOMAIN | TECHNOLOGIES & TOOLING |
 |:--|:--|
-| **NETWORKS** | Cisco switching · VLAN · 802.1Q · STP · HSRP · LACP · Wireshark |
-| **SYSTEMS** | Debian · Linux · Windows Server · VMware ESXi / vCenter |
-| **AUTOMATION** | Python · Bash · PowerShell · n8n |
-| **OBSERVABILITY** | Netdata · Node Exporter · Glances · Metrics · Logs · Alerting |
-| **SECURITY** | FortiGate exposure · Firewall concepts · Defensive monitoring fundamentals |
-| **DATA & SERVICES** | MariaDB · Kafka coursework · Docker · Service integration |
+| **NETWORKING** | Cisco Switching · VLANs · 802.1Q · Rapid-PVST · HSRP · LACP / EtherChannel |
+| **SYSTEMS & VIRTUALIZATION** | Debian · Linux · Windows Server · VMware ESXi · vCenter · systemd-networkd |
+| **NETWORK & SYSTEM SECURITY** | FortiGate · Firewalling · Network Segmentation · High Availability · Hardening Fundamentals · Defensive Monitoring |
+| **AUTOMATION & OBSERVABILITY** | Python · Bash · PowerShell · n8n · Netdata · Node Exporter · Glances |
+| **CLOUD & INFRASTRUCTURE** | Virtualized Infrastructure · Hybrid Infrastructure Concepts · Docker · Infrastructure Operations |
+| **DEVELOPMENT & APIs** | Python · JavaScript · TypeScript · Django · Django REST Framework · React · Vite · REST APIs · JWT |
+| **DATA & MESSAGING** | PostgreSQL · MariaDB · Redis · Apache Kafka · Celery · SQL |
+| **AI & WORKFLOW AUTOMATION** | CrewAI · LLM-Integrated Workflows · AI-Assisted Application Features |
+| **IOT & EMBEDDED SYSTEMS** | ESP32 · Arduino · Sensor-Based Systems · Bluetooth Communication |
 
-<sub>SKILL CONTEXT: practical exposure, academic implementation and ongoing learning. The presence of a technology here does not imply expert-level proficiency.</sub>
+<sub>SKILL CONTEXT: technologies reflect a mix of hands-on practice, internship exposure, academic projects and ongoing learning. Cloud platforms and advanced tooling are not presented as production-level expertise; proficiency varies by technology.</sub>
 
 ---
 
