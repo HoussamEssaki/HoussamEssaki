@@ -1,177 +1,244 @@
-<!-- NEXUS / SYSTEMS IN MOTION -->
+
 <div align="center">
+  <img src="./assets/nexus-hero.svg" width="100%" alt="NEXUS — Infrastructure in Motion"/>
+  <img src="./assets/nexus-marquee.svg" width="100%" alt="Infrastructure and cybersecurity ticker"/>
+  <br/><br/>
+  <a href="https://www.linkedin.com/in/houssam-essaki/"><img src="https://img.shields.io/badge/LINKEDIN-00E5FF?style=for-the-badge&logo=linkedin&logoColor=090D10"/></a>
+  <a href="https://tryhackme.com/p/houssamessaki"><img src="https://img.shields.io/badge/TRYHACKME-FFE600?style=for-the-badge&logo=tryhackme&logoColor=090D10"/></a>
+  <a href="https://houssamessaki.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-B7FF3C?style=for-the-badge&logo=vercel&logoColor=090D10"/></a>
+  <a href="https://github.com/HoussamEssaki"><img src="https://img.shields.io/badge/GITHUB-FF5E7E?style=for-the-badge&logo=github&logoColor=090D10"/></a>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/BASE-CASABLANCA%2C%20MOROCCO-0D1216?style=flat-square&labelColor=FFE600"/>
+  <img src="https://img.shields.io/badge/FOCUS-INFRASTRUCTURE%20%7C%20NETWORKS%20%7C%20SECURITY-0D1216?style=flat-square&labelColor=00E5FF"/>
+  <img src="https://img.shields.io/badge/STATUS-PFE%20FEB%202027-0D1216?style=flat-square&labelColor=B7FF3C"/>
+</div>
 
-<img src="./assets/nexus-banner.svg" alt="NEXUS — Systems in Motion" width="100%" />
+<div align="center">
+  <img src="./assets/nexus-terminal.svg" width="96%" alt="NEXUS boot sequence"/>
+</div>
 
-### BUILD WITH INTENT. SECURE BY DESIGN. OPERATE WITH CONFIDENCE.
+> **NEXUS PRINCIPLE //** Reliable infrastructure is engineered. Visibility is intentional. Security is continuous.
 
-**State Engineering Student · Infrastructure · Networks · Systems · Cybersecurity**
+---
 
-Casablanca, Morocco · **PFE internship: February 2027 · 6 months**
+<div align="center"><img src="./assets/headers/01-domains.svg" width="100%" alt="Engineering domains"/></div>
 
-[Portfolio](https://houssamessaki.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/houssam-essaki/) · [TryHackMe](https://tryhackme.com/p/houssamessaki) · [GitHub](https://github.com/HoussamEssaki)
+## SYSTEM PROFILE
 
+I’m a final-year State Engineering student at **Groupe ISGA**, specializing in **Networks, Systems & Security Engineering**.
+
+My focus is the engineering, operation, automation, monitoring and protection of enterprise IT environments. I’m particularly interested in the intersection of infrastructure engineering and cybersecurity: resilient networks, observable systems, governed cloud environments and security built into operations.
+
+**MISSION:** connect infrastructure, operational excellence and security engineering.
+
+| ENGINEERING PILLAR | AREAS OF FOCUS | CORE TECHNOLOGIES |
+|:--|:--|:--|
+| **01 / NETWORKS** | Routing, switching, segmentation, WAN, high availability | Cisco, VLAN, 802.1Q, STP, OSPF, HSRP, LACP, VPN |
+| **02 / SYSTEMS** | Linux & Windows administration, identity, services, hardening | Debian, Ubuntu, Windows Server, AD DS, DNS, DHCP, GPO |
+| **03 / VIRTUALIZATION** | Hypervisors, virtual networks, compute and storage | VMware ESXi, vSphere, vCenter, Hyper-V, Proxmox |
+| **04 / AUTOMATION** | Scripting, configuration management, repeatable operations | Python, Bash, PowerShell, Ansible, Terraform, n8n |
+| **05 / OBSERVABILITY** | Metrics, logs, dashboards, alerting and service health | Zabbix, Prometheus, Grafana, Netdata, ELK, OpenSearch |
+| **06 / CLOUD & DEVOPS** | Hybrid environments, containers, CI/CD and IaC | Azure, AWS, Docker, Kubernetes, GitHub Actions |
+| **07 / CYBERSECURITY** | SOC, security assessment, GRC, IAM and infrastructure defence | Wazuh, SIEM, ISO 27001, Entra ID, RBAC |
+| **08 / AI SECURITY** | Security analytics, anomaly detection and IoT security concepts | Python, scikit-learn, TensorFlow, TinyML, ESP32 |
+
+---
+
+<div align="center"><img src="./assets/headers/02-security.svg" width="100%" alt="Security operations"/></div>
+
+## SECURITY OPERATIONS / SPECIALIZATION MAP
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 01 — SOC / BLUE TEAM
+Security monitoring, log analysis, alert qualification, event correlation, incident handling, threat intelligence, detection fundamentals and MITRE ATT&CK.
+
+**TOOLS & CONCEPTS:** Wazuh · Splunk · Microsoft Sentinel · Defender · SIEM · EDR/XDR concepts
+
+</td>
+<td width="50%" valign="top">
+
+### 02 — SECURITY ASSESSMENT
+Authorized assessment methodology, scope definition, asset discovery, vulnerability assessment, network and web security fundamentals, remediation and reporting.
+
+**TOOLS & CONCEPTS:** Nmap · Wireshark · Nessus · Burp Suite · OWASP ZAP · OWASP Top 10
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 03 — GRC / RISK
+Information security management, risk assessment, security policies, control mapping, audit preparation, compliance evidence and remediation tracking.
+
+**FRAMEWORKS:** ISO/IEC 27001 · NIST CSF · ISMS · Risk Register · Security Controls
+
+</td>
+<td width="50%" valign="top">
+
+### 04 — IAM / ACCESS GOVERNANCE
+Identity lifecycle, authentication, authorization, access reviews, role-based access, least privilege, MFA, SSO and privileged-access concepts.
+
+**TECHNOLOGIES:** Active Directory · Entra ID · RBAC · MFA · SSO · PAM concepts
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 05 — CLOUD & DEVSECOPS
+Cloud shared responsibility, secure identity and configuration, workload protection, container security fundamentals, secrets handling and security checks in CI/CD.
+
+**TECHNOLOGIES:** Azure · AWS · Docker · Kubernetes · Terraform · GitHub Actions
+
+</td>
+<td width="50%" valign="top">
+
+### 06 — AI FOR SECURITY
+Machine-learning fundamentals for anomaly detection, event analysis, IoT security and responsible AI-assisted security workflows.
+
+**TECHNOLOGIES:** Python · NumPy · Pandas · scikit-learn · TensorFlow · TinyML
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center"><img src="./assets/headers/03-projects.svg" width="100%" alt="Selected builds"/></div>
+
+## SELECTED BUILDS / ENGINEERING WORK
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/01-FLAGSHIP_LAB-FFE600?style=for-the-badge&labelColor=0D1216"/>
+### Enterprise Infrastructure & Security Lab
+
+Enterprise-style lab documentation covering network architecture, segmentation, virtualization, defensive controls, monitoring and resilience.
+
+**SCOPE:** Networking · Virtualization · Security · Monitoring
+
+[EXPLORE THE LAB ↗](https://github.com/HoussamEssaki/enterprise-infrastructure-security-lab)
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/02-INDUSTRY_EXPOSURE-00E5FF?style=for-the-badge&labelColor=0D1216"/>
+### Multi-site Infrastructure & Security
+
+Industry placement exposure to enterprise network and virtualized infrastructure, high-availability concepts, firewall services and operational monitoring.
+
+**SCOPE:** Cisco · FortiGate HA · VMware · Resilience
+
+<sub>Public descriptions are generalized; confidential employer configurations are excluded.</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/03-OBSERVABILITY-B7FF3C?style=for-the-badge&labelColor=0D1216"/>
+### Linux Monitoring & Automation
+
+Linux server monitoring environment with metrics, dashboards, notifications and workflow automation.
+
+**SCOPE:** Debian · Netdata · Node Exporter · Glances · n8n
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/04-EDGE_INTELLIGENCE-FF5E7E?style=for-the-badge&labelColor=0D1216"/>
+### AI-assisted IoT Study
+
+Academic exploration of connected-device systems, embedded platforms and machine-learning concepts for local anomaly detection.
+
+**SCOPE:** ESP32 · IoT · TinyML concepts · Machine Learning
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<a href="https://github.com/HoussamEssaki?tab=repositories"><img src="https://img.shields.io/badge/ALL_REPOSITORIES-OPEN_INDEX-0D1216?style=for-the-badge&logo=github&logoColor=00E5FF"/></a>
 </div>
 
 ---
 
-## 00 / THE ENGINEER
+<div align="center"><img src="./assets/headers/04-toolbox.svg" width="100%" alt="Tools and technologies"/></div>
 
-I’m a final-year State Engineering student at **Groupe ISGA**, specializing in **Networks, Systems & Security Engineering**.
+## TECHNICAL ECOSYSTEM / TOOLBOX
 
-My focus is the engineering, operation and protection of IT environments: enterprise infrastructure, network architecture, systems administration, virtualization, automation, observability, cloud platforms and cybersecurity.
+<details open>
+<summary><b>NETWORK ENGINEERING & CONNECTIVITY</b></summary>
+<br/>
+Cisco · Packet Tracer · GNS3 · EVE-NG · PNETLab · Wireshark · tcpdump · PuTTY · MobaXterm · Termius · FortiGate · pfSense · IPv4/IPv6 · TCP/IP · VLAN · 802.1Q · STP · Rapid-PVST+ · EtherChannel · LACP · OSPF · HSRP · NAT/PAT · ACL · VPN · WAN · SDN · SD-WAN
+</details>
 
-I’m particularly interested in the connection between reliable infrastructure and security operations — building environments that are resilient, observable, maintainable and secure by design.
+<details>
+<summary><b>SYSTEMS, DIRECTORY SERVICES & VIRTUALIZATION</b></summary>
+<br/>
+Linux · Debian · Ubuntu · RHEL fundamentals · Windows Server · Active Directory · AD DS · DNS · DHCP · GPO · WSUS · PowerShell · Bash · VMware Workstation · ESXi · vSphere · vCenter · Hyper-V · Proxmox · VirtualBox
+</details>
 
-> I build, connect, automate, monitor and secure the systems that keep digital services running.
+<details>
+<summary><b>AUTOMATION, DEVOPS & INFRASTRUCTURE AS CODE</b></summary>
+<br/>
+Python · Bash · PowerShell · Ansible · Terraform · Git · GitHub Actions · Docker · Docker Compose · Kubernetes fundamentals · CI/CD concepts · n8n · Configuration Management · Infrastructure as Code
+</details>
 
----
+<details>
+<summary><b>MONITORING, LOGGING & OBSERVABILITY</b></summary>
+<br/>
+Zabbix · Prometheus · Grafana · Netdata · Node Exporter · Glances · ELK Stack · OpenSearch · Centralized Logging · Alerting · Dashboards · Metrics
+</details>
 
-## 01 / ENGINEERING DOMAINS
+<details>
+<summary><b>CYBERSECURITY, SOC & SECURITY ASSESSMENT</b></summary>
+<br/>
+Wazuh · Splunk · Microsoft Sentinel · Microsoft Defender · Nessus · Nmap · Kali Linux · Burp Suite · OWASP ZAP · Wireshark · MITRE ATT&CK · SIEM · IDS/IPS concepts · Vulnerability Management · Incident Response
+</details>
 
-| DOMAIN | SCOPE |
-|:--|:--|
-| **IT INFRASTRUCTURE** | Enterprise architecture, multi-site environments, data-centre concepts, high availability, resilience, capacity and service continuity |
-| **NETWORK ENGINEERING** | TCP/IP, IPv4/IPv6, subnetting/VLSM, switching, routing, VLANs, 802.1Q, STP/Rapid-PVST+, EtherChannel/LACP, OSPF, HSRP, NAT/PAT, ACLs, VPN, WAN, SDN/SD-WAN |
-| **SYSTEMS ADMINISTRATION** | Linux and Windows Server, identity services, DNS, DHCP, Active Directory, Group Policy, server hardening, patching, access and service management |
-| **VIRTUALIZATION & DATACENTRE** | VMware ESXi, vSphere, vCenter, Hyper-V, Proxmox, VirtualBox, virtual networking, resource allocation and availability |
-| **AUTOMATION & IaC** | Bash, PowerShell, Python, Ansible, Terraform, Git, workflow automation and configuration management |
-| **MONITORING & OBSERVABILITY** | Metrics, logs, dashboards, alerting, availability, performance monitoring, centralized logging and operational reporting |
-| **CLOUD & HYBRID INFRASTRUCTURE** | Azure, AWS and GCP fundamentals; hybrid connectivity, cloud networking, identity, access, storage and workload security |
-| **DEVOPS & DEVSECOPS** | Docker, Kubernetes fundamentals, CI/CD concepts, GitHub Actions, infrastructure as code, secrets management and security checks in delivery workflows |
-| **CYBERSECURITY** | Network defence, infrastructure hardening, vulnerability management, security monitoring, incident response, identity security and risk management |
-| **AI FOR SECURITY** | Machine learning, deep learning and TinyML concepts applied to anomaly detection, IoT security, event analysis and security automation |
+<details>
+<summary><b>CLOUD, IAM, GRC & AI SECURITY</b></summary>
+<br/>
+Microsoft Azure · Microsoft Entra ID · Azure RBAC · AWS fundamentals · GCP fundamentals · IAM · RBAC · MFA · SSO · ISO/IEC 27001 · NIST CSF · Risk Assessment · ISMS · Python · NumPy · Pandas · scikit-learn · TensorFlow · PyTorch fundamentals · TensorFlow Lite Micro · ESP32
+</details>
 
-*This map describes areas of study, hands-on practice and professional interests. It is not a claim of expert-level proficiency in every listed technology.*
-
----
-
-## 02 / SECURITY PRACTICE
-
-| TRACK | TOPICS & METHODS |
-|:--|:--|
-| **SOC & BLUE TEAM** | SIEM concepts, log analysis, alert triage, event correlation, threat monitoring, detection engineering foundations, incident handling, escalation, evidence preservation, threat intelligence and MITRE ATT&CK |
-| **PENTEST & SECURITY ASSESSMENT** | Authorized assessment methodology, scoping, reconnaissance concepts, asset discovery, service review, vulnerability assessment, web security fundamentals, OWASP Top 10, validation and remediation reporting |
-| **GRC** | ISO/IEC 27001, ISMS concepts, NIST Cybersecurity Framework, risk assessment, asset classification, security policies, audit preparation, controls mapping, compliance evidence and remediation tracking |
-| **IAM** | Identity lifecycle, Active Directory, Microsoft Entra ID, RBAC, least privilege, MFA, SSO, access reviews, privileged-access concepts and authentication fundamentals |
-| **INFRASTRUCTURE SECURITY** | Network segmentation, DMZ, firewall policy concepts, VPN, secure administration, system hardening, endpoint protection, backup security, resilience and defence in depth |
-| **CLOUD & DEVSECOPS SECURITY** | Shared-responsibility model, cloud IAM, secure configuration, workload protection, container security concepts, secrets handling and security integration in CI/CD |
-| **AI SECURITY** | AI system risk awareness, data protection, model and pipeline security concepts, adversarial-risk awareness and responsible use of AI in security workflows |
-
----
-
-## 03 / SELECTED ENGINEERING WORK
-
-### 01 — Enterprise Infrastructure & Security Lab
-**Infrastructure · Network Architecture · Virtualization · Security · Operations**
-
-An isolated enterprise-style lab and documentation project focused on architecture, segmentation, defensive controls and operational resilience.
-
-- Network zones for users, servers, DMZ and administration.
-- Switching, routing, redundancy and secure inter-site connectivity concepts.
-- Virtualized infrastructure and core services.
-- Firewall and layered security-control design.
-- Monitoring, centralized logs, backup and recovery planning.
-- Validation register distinguishing planned, implemented and tested components.
-
-[OPEN THE LAB →](https://github.com/HoussamEssaki/enterprise-infrastructure-security-lab)
-
-### 02 — Multi-site Infrastructure & Security Work
-**Cisco · FortiGate HA · VMware · Monitoring · Resilience**
-
-Infrastructure work carried out during an industry placement, involving a multi-site virtualized environment and high-availability design.
-
-- Cisco switching concepts: VLANs, 802.1Q, Rapid-PVST+, HSRP and LACP.
-- FortiGate active-passive high-availability environment and security services.
-- Virtualization, infrastructure services and network segmentation.
-- Monitoring, alerting and operational documentation.
-
-The public lab documents generalized learning and architecture; confidential company configurations and data are intentionally excluded.
-
-### 03 — Automated Linux Server Monitoring
-**Debian · Netdata · Prometheus · Docker · n8n · MariaDB**
-
-A monitoring and alerting project for Linux environments.
-
-- Host and service visibility through metrics and dashboards.
-- Alert workflows and notification channels.
-- Containerized supporting services and structured monitoring data.
-- Operational focus on observability and proactive response.
-
-### 04 — AI-assisted IoT Security Study
-**IoT · ESP32 · TinyML · Machine Learning**
-
-An academic exploration of local, embedded intelligence for identifying suspicious IoT behaviour.
-
-- Edge-oriented detection concepts.
-- Machine-learning and TinyML workflow.
-- Security considerations for constrained connected devices.
-
-### 05 — TryHackMe Learning Profile
-**Hands-on Cybersecurity Learning · Security Fundamentals · Practical Labs**
-
-My TryHackMe profile documents ongoing practical learning in cybersecurity. The profile is the source of truth for current rooms, progress, badges and learning paths.
-
-[VIEW MY TRYHACKME PROFILE →](https://tryhackme.com/p/houssamessaki)
+<sub>Technology map: a mix of hands-on practice, academic exposure and current learning priorities. It does not imply expert-level proficiency in every listed product or framework.</sub>
 
 ---
 
-## 04 / INFRASTRUCTURE & SECURITY TOOLBOX
+<div align="center"><img src="./assets/headers/05-telemetry.svg" width="100%" alt="GitHub telemetry"/></div>
 
-The following is a categorized technology map relevant to my coursework, labs and professional interests. Individual tools may represent hands-on use, academic exposure or technologies I am currently deepening.
+## GITHUB TELEMETRY
 
-### Networks & Connectivity
-`Cisco` `Packet Tracer` `GNS3` `EVE-NG` `PNETLab` `Wireshark` `tcpdump` `PuTTY` `MobaXterm` `Termius` `FortiGate` `pfSense`
-
-### Systems & Identity
-`Linux` `Debian` `Ubuntu` `RHEL` `Windows Server` `Active Directory` `AD DS` `DNS` `DHCP` `GPO` `WSUS` `PowerShell` `Bash`
-
-### Virtualization & Containers
-`VMware Workstation` `ESXi` `vSphere` `vCenter` `Hyper-V` `Proxmox` `VirtualBox` `Docker` `Docker Compose` `Kubernetes`
-
-### Automation, IaC & DevOps
-`Python` `Bash` `PowerShell` `Ansible` `Terraform` `Git` `GitHub Actions` `CI/CD` `n8n`
-
-### Monitoring & Observability
-`Zabbix` `Grafana` `Prometheus` `Netdata` `Node Exporter` `Glances` `ELK` `OpenSearch`
-
-### Security Operations & Assessment
-`Wazuh` `Splunk` `Microsoft Sentinel` `Microsoft Defender` `Nessus` `Nmap` `Kali Linux` `Burp Suite` `OWASP ZAP` `MITRE ATT&CK`
-
-### Cloud Platforms
-`Microsoft Azure` `Microsoft Entra ID` `Azure RBAC` `AWS` `EC2` `S3` `VPC` `IAM` `GCP`
-
-### Governance, Risk & Compliance
-`ISO/IEC 27001` `NIST CSF` `Risk Assessment` `Security Controls` `ISMS` `Audit Evidence` `Policies & Procedures`
-
-### AI & Security Analytics
-`Python` `NumPy` `Pandas` `scikit-learn` `TensorFlow` `PyTorch` `TensorFlow Lite Micro` `ESP32` `Anomaly Detection Concepts`
+<div align="center">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=HoussamEssaki&show_icons=true&hide_border=true&bg_color=0D1216&title_color=FFE600&text_color=E8EEF0&icon_color=00E5FF" alt="GitHub profile statistics"/>
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoussamEssaki&layout=compact&hide_border=true&bg_color=0D1216&title_color=00E5FF&text_color=E8EEF0" alt="Most used languages"/>
+  <br/><br/>
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=HoussamEssaki&bg_color=0D1216&color=FFE600&line=00E5FF&point=B7FF3C&area=true&hide_border=true" alt="GitHub activity graph"/>
+  <br/><br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HoussamEssaki/HoussamEssaki/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HoussamEssaki/HoussamEssaki/output/github-contribution-grid-snake.svg"/>
+    <img alt="Contribution graph animation" src="https://raw.githubusercontent.com/HoussamEssaki/HoussamEssaki/output/github-contribution-grid-snake-dark.svg"/>
+  </picture>
+</div>
 
 ---
 
-## 05 / ENGINEERING NOTEBOOK
+<div align="center"><img src="./assets/headers/06-connect.svg" width="100%" alt="Connect and collaborate"/></div>
 
-Every infrastructure project should be understandable, reproducible and verifiable.
+## CURRENT TRANSMISSION
 
-My documentation approach is based on:
-
-- **Architecture:** components, network zones, trust boundaries and dependencies.
-- **Configuration:** intended behaviour, security rationale and operational impact.
-- **Automation:** repeatable tasks, version-controlled configuration and clear change history.
-- **Observability:** metrics, logs, alerts and service health.
-- **Validation:** test scope, evidence, results and remaining limitations.
-- **Resilience:** backup, recovery, availability and continuity planning.
-
----
-
-## 06 / CURRENT TRANSMISSION
-
-**Objective:** a **six-month PFE internship starting February 2027** in Morocco.
-
-I’m looking for an opportunity focused on one or more of these areas:
+**Seeking a six-month PFE internship starting February 2027 in Morocco.**
 
 - Infrastructure, networks and systems engineering
-- Virtualization, data-centre and hybrid-cloud environments
+- Virtualization, datacentres and hybrid cloud
 - Network and infrastructure security
 - SOC, SIEM, monitoring and incident response
 - Security assessment and vulnerability management
@@ -180,19 +247,13 @@ I’m looking for an opportunity focused on one or more of these areas:
 - Automation, observability, DevOps and DevSecOps
 - AI applied to infrastructure and cybersecurity
 
----
-
-## 07 / CONNECT
-
 <div align="center">
-
-### DESIGN RELIABLE INFRASTRUCTURE. MAKE IT OBSERVABLE. SECURE IT THROUGHOUT ITS LIFECYCLE.
-
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0B1220?style=for-the-badge&logo=vercel&logoColor=white)](https://houssamessaki.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/houssam-essaki/)
-[![TryHackMe](https://img.shields.io/badge/TRYHACKME-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/houssamessaki)
-[![GitHub](https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HoussamEssaki)
-
-<sub>NEXUS / SYSTEMS IN MOTION · Houssam Essaki · 2026</sub>
-
+  <a href="https://tryhackme.com/p/houssamessaki"><img src="https://img.shields.io/badge/TRYHACKME-PRACTICAL_LEARNING-FFE600?style=for-the-badge&logo=tryhackme&logoColor=090D10"/></a>
+  <h3>DESIGN RELIABLE INFRASTRUCTURE.<br/>MAKE IT OBSERVABLE.<br/>SECURE IT THROUGHOUT ITS LIFECYCLE.</h3>
+  <a href="https://houssamessaki.vercel.app/">PORTFOLIO</a> ·
+  <a href="https://www.linkedin.com/in/houssam-essaki/">LINKEDIN</a> ·
+  <a href="https://tryhackme.com/p/houssamessaki">TRYHACKME</a> ·
+  <a href="https://github.com/HoussamEssaki">GITHUB</a>
+  <br/><br/>
+  <sub>NEXUS // INFRASTRUCTURE CONTROL SYSTEM · HOUSSAM ESSAKI · 2026</sub>
 </div>
