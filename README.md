@@ -150,6 +150,9 @@ A collection of supervised academic projects, including work around AI and e-com
 <img src="https://img.shields.io/badge/Fortinet-0B1117?style=for-the-badge&logo=fortinet&logoColor=00E5FF" alt="Fortinet"/>
 <img src="https://img.shields.io/badge/Wireshark-0B1117?style=for-the-badge&logo=wireshark&logoColor=00E5FF" alt="Wireshark"/>
 <img src="https://img.shields.io/badge/Packet_Tracer-0B1117?style=for-the-badge&logo=cisco&logoColor=D7FF38" alt="Cisco Packet Tracer"/>
+<img src="https://img.shields.io/badge/GNS3-0B1117?style=for-the-badge&logo=gns3&logoColor=00E5FF" alt="GNS3"/>
+<img src="https://img.shields.io/badge/EVE--NG-0B1117?style=for-the-badge&logoColor=00E5FF" alt="EVE-NG"/>
+<img src="https://img.shields.io/badge/PNETLab-0B1117?style=for-the-badge&logoColor=D7FF38" alt="PNETLab"/>
 <br/><sub>OSI · TCP/IP · Switching · VLANs · 802.1Q · STP / Rapid-PVST · HSRP · LACP / EtherChannel · Routing · WAN · MPLS · BGP · PBR · Traffic engineering · QoS · IP telephony · SDN · Network programming</sub>
 </td>
 </tr>
