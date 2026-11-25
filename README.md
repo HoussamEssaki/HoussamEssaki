@@ -78,6 +78,8 @@ Exposure to a multi-site, virtualized and hybrid enterprise infrastructure envir
 
 <a href="https://github.com/HoussamEssaki/enterprise-infrastructure-security-lab"><img src="https://img.shields.io/badge/OPEN_LAB-D7FF38?style=for-the-badge&labelColor=0B1117&color=D7FF38" alt="Open infrastructure lab"/></a>
 
+<img src="./assets/command-center/project-infra.svg" width="100%" alt="Enterprise infrastructure lab architecture"/>
+
 A documented enterprise-style lab blueprint exploring segmented networks, systems, virtualization, defensive controls, observability, backup and recovery.
 
 **FOCUS**  
@@ -92,6 +94,8 @@ Design baseline and documentation. Implementation and validation are tracked sep
 ### 02 / EMBEDDED SYSTEMS & CONNECTIVITY
 
 <a href="https://github.com/HoussamEssaki/ROBOT-VOITURE-SUIVEUR-DE-LIGNE-ET-DETECTEUR-D-OBSTACLE-AVEC-CONTROLE-BLUETOOTH/tree/Robot_Voiture"><img src="https://img.shields.io/badge/OPEN_PROJECT-00E5FF?style=for-the-badge&labelColor=0B1117&color=00E5FF" alt="Open embedded project"/></a>
+
+<img src="./assets/command-center/project-iot.svg" width="100%" alt="Embedded systems and connectivity project diagram"/>
 
 Academic robotics project combining embedded control, sensor-driven behaviour and Bluetooth communication.
 
@@ -146,6 +150,8 @@ A collection of supervised academic projects, including work around AI and e-com
 
 ---
 
+<div align="center"><img src="./assets/command-center/section-learning.svg" width="100%" alt="Learning in public"/></div>
+
 ## 04 / CURRENT LEARNING VECTOR
 
 <div align="center">
@@ -174,6 +180,8 @@ I’m looking for an environment where I can contribute to real infrastructure w
 
 ---
 
+<div align="center"><img src="./assets/command-center/section-telemetry.svg" width="100%" alt="GitHub telemetry"/></div>
+
 ## 06 / GITHUB TELEMETRY
 
 <div align="center">
@@ -198,6 +206,8 @@ I’m looking for an environment where I can contribute to real infrastructure w
 <sub>Telemetry widgets are provided by external services; availability and refresh timing may vary.</sub>
 
 ---
+
+<div align="center"><img src="./assets/command-center/section-connect.svg" width="100%" alt="Connect and build"/></div>
 
 ## 07 / CONNECT
 
