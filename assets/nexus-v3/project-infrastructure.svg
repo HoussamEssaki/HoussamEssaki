@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Enterprise infrastructure and security lab">
+<defs><pattern id="g" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#26373d"/></pattern></defs>
+<rect width="1200" height="360" fill="#10191e"/><rect width="1200" height="360" fill="url(#g)"/>
+<path d="M0 0H1200V12H0Z" fill="#d8ff38"/>
+<g fill="none" stroke="#00d9ff" stroke-width="3"><path d="M760 180H920M840 105V255M920 180L1040 105M920 180L1040 255"/><rect x="700" y="140" width="120" height="80" rx="8"/><rect x="800" y="65" width="80" height="80" rx="8"/><rect x="800" y="215" width="80" height="80" rx="8"/><rect x="1040" y="65" width="100" height="80" rx="8"/><rect x="1040" y="215" width="100" height="80" rx="8"/></g>
+<g fill="#eaf1ef" font-family="monospace" text-anchor="middle"><text x="760" y="175" font-size="14">CORE</text><text x="760" y="195" font-size="14" fill="#d8ff38">NETWORK</text><text x="840" y="110" font-size="13">DMZ</text><text x="840" y="260" font-size="13">OPS</text><text x="1090" y="110" font-size="13">SERVERS</text><text x="1090" y="260" font-size="13">BACKUP</text></g>
+<text x="64" y="105" fill="#d8ff38" font-family="monospace" font-size="17" letter-spacing="4">FLAGSHIP LAB / 01</text><text x="60" y="190" fill="#f2f5f4" font-family="Arial,sans-serif" font-size="52" font-weight="800">ENTERPRISE</text><text x="60" y="250" fill="#f2f5f4" font-family="Arial,sans-serif" font-size="52" font-weight="800">INFRASTRUCTURE</text><text x="64" y="305" fill="#91a3a9" font-family="monospace" font-size="17" letter-spacing="2">SEGMENT / PROTECT / OBSERVE / RECOVER</text>
+</svg>
