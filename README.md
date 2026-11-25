@@ -1,105 +1,90 @@
-
 <div align="center">
-  <img src="./assets/nexus-hero.svg" width="100%" alt="NEXUS — Infrastructure in Motion"/>
-  <img src="./assets/nexus-marquee.svg" width="100%" alt="Infrastructure and cybersecurity ticker"/>
-  <br/><br/>
-  <a href="https://www.linkedin.com/in/houssam-essaki/"><img src="https://img.shields.io/badge/LINKEDIN-00E5FF?style=for-the-badge&logo=linkedin&logoColor=090D10"/></a>
-  <a href="https://tryhackme.com/p/houssamessaki"><img src="https://img.shields.io/badge/TRYHACKME-FFE600?style=for-the-badge&logo=tryhackme&logoColor=090D10"/></a>
-  <a href="https://houssamessaki.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-B7FF3C?style=for-the-badge&logo=vercel&logoColor=090D10"/></a>
-  <a href="https://github.com/HoussamEssaki"><img src="https://img.shields.io/badge/GITHUB-FF5E7E?style=for-the-badge&logo=github&logoColor=090D10"/></a>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/BASE-CASABLANCA%2C%20MOROCCO-0D1216?style=flat-square&labelColor=FFE600"/>
-  <img src="https://img.shields.io/badge/FOCUS-INFRASTRUCTURE%20%7C%20NETWORKS%20%7C%20SECURITY-0D1216?style=flat-square&labelColor=00E5FF"/>
-  <img src="https://img.shields.io/badge/STATUS-PFE%20FEB%202027-0D1216?style=flat-square&labelColor=B7FF3C"/>
+
+<img src="./assets/nexus-v3/hero.svg" width="100%" alt="NEXUS — Infrastructure in motion" />
+
+<img src="./assets/nexus-v3/ticker.svg" width="100%" alt="Network engineering, systems, observability and security" />
+
+<br/>
+
+<a href="https://www.linkedin.com/in/houssam-essaki/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0b1114?style=for-the-badge&logo=linkedin&logoColor=00d9ff" alt="LinkedIn"/></a>
+<a href="https://houssamessaki.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE-0b1114?style=for-the-badge&logo=vercel&logoColor=d8ff38" alt="Portfolio"/></a>
+<a href="https://tryhackme.com/p/houssamessaki"><img src="https://img.shields.io/badge/TRYHACKME-PRACTICE-0b1114?style=for-the-badge&logo=tryhackme&logoColor=ff5e7e" alt="TryHackMe"/></a>
+<a href="https://github.com/HoussamEssaki"><img src="https://img.shields.io/badge/GITHUB-REPOSITORIES-0b1114?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub repositories"/></a>
+
 </div>
 
-<div align="center">
-  <img src="./assets/nexus-terminal.svg" width="96%" alt="NEXUS boot sequence"/>
-</div>
+<br/>
 
-> **NEXUS PRINCIPLE //** Reliable infrastructure is engineered. Visibility is intentional. Security is continuous.
+> **ENGINEERING NOTE 001** — I’m interested in the systems behind reliable digital services: how infrastructure is designed, connected, automated, monitored and secured.
 
----
-
-<div align="center"><img src="./assets/headers/01-domains.svg" width="100%" alt="Engineering domains"/></div>
-
-## SYSTEM PROFILE
+## 00 / WHO I AM
 
 I’m a final-year State Engineering student at **Groupe ISGA**, specializing in **Networks, Systems & Security Engineering**.
 
-My focus is the engineering, operation, automation, monitoring and protection of enterprise IT environments. I’m particularly interested in the intersection of infrastructure engineering and cybersecurity: resilient networks, observable systems, governed cloud environments and security built into operations.
+My direction is infrastructure-first: enterprise networks, Linux and Windows environments, virtualization, hybrid infrastructure, automation and defensive security. I like understanding how the layers fit together — from connectivity and identity to observability, resilience and security controls.
 
-**MISSION:** connect infrastructure, operational excellence and security engineering.
+**Current objective:** a six-month PFE internship in Morocco starting **February 2027**, focused on Networks, Systems, Infrastructure, Cloud or Cybersecurity.
 
-| ENGINEERING PILLAR | AREAS OF FOCUS | CORE TECHNOLOGIES |
-|:--|:--|:--|
-| **01 / NETWORKS** | Routing, switching, segmentation, WAN, high availability | Cisco, VLAN, 802.1Q, STP, OSPF, HSRP, LACP, VPN |
-| **02 / SYSTEMS** | Linux & Windows administration, identity, services, hardening | Debian, Ubuntu, Windows Server, AD DS, DNS, DHCP, GPO |
-| **03 / VIRTUALIZATION** | Hypervisors, virtual networks, compute and storage | VMware ESXi, vSphere, vCenter, Hyper-V, Proxmox |
-| **04 / AUTOMATION** | Scripting, configuration management, repeatable operations | Python, Bash, PowerShell, Ansible, Terraform, n8n |
-| **05 / OBSERVABILITY** | Metrics, logs, dashboards, alerting and service health | Zabbix, Prometheus, Grafana, Netdata, ELK, OpenSearch |
-| **06 / CLOUD & DEVOPS** | Hybrid environments, containers, CI/CD and IaC | Azure, AWS, Docker, Kubernetes, GitHub Actions |
-| **07 / CYBERSECURITY** | SOC, security assessment, GRC, IAM and infrastructure defence | Wazuh, SIEM, ISO 27001, Entra ID, RBAC |
-| **08 / AI SECURITY** | Security analytics, anomaly detection and IoT security concepts | Python, scikit-learn, TensorFlow, TinyML, ESP32 |
+<sub>CASABLANCA, MOROCCO · STATE ENGINEERING · CLASS OF 2027</sub>
 
 ---
 
-<div align="center"><img src="./assets/headers/02-security.svg" width="100%" alt="Security operations"/></div>
+<div align="center">
+<img src="./assets/nexus-v3/blueprint.svg" width="100%" alt="The infrastructure lifecycle: design, connect, observe, protect and improve"/>
+</div>
 
-## SECURITY OPERATIONS / SPECIALIZATION MAP
+## 01 / ENGINEERING DOMAINS
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 01 — SOC / BLUE TEAM
-Security monitoring, log analysis, alert qualification, event correlation, incident handling, threat intelligence, detection fundamentals and MITRE ATT&CK.
+### 01 — NETWORKS & CONNECTIVITY
 
-**TOOLS & CONCEPTS:** Wazuh · Splunk · Microsoft Sentinel · Defender · SIEM · EDR/XDR concepts
+- Switching, VLAN segmentation and trunking
+- Layer 2 resilience and gateway high availability
+- Routing fundamentals, WAN and VPN concepts
+- Network troubleshooting and packet analysis
 
-</td>
-<td width="50%" valign="top">
-
-### 02 — SECURITY ASSESSMENT
-Authorized assessment methodology, scope definition, asset discovery, vulnerability assessment, network and web security fundamentals, remediation and reporting.
-
-**TOOLS & CONCEPTS:** Nmap · Wireshark · Nessus · Burp Suite · OWASP ZAP · OWASP Top 10
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 03 — GRC / RISK
-Information security management, risk assessment, security policies, control mapping, audit preparation, compliance evidence and remediation tracking.
-
-**FRAMEWORKS:** ISO/IEC 27001 · NIST CSF · ISMS · Risk Register · Security Controls
+<sub>WORKING CONTEXT · Cisco · VLAN · 802.1Q · Rapid-PVST · HSRP · LACP · Wireshark</sub>
 
 </td>
 <td width="50%" valign="top">
 
-### 04 — IAM / ACCESS GOVERNANCE
-Identity lifecycle, authentication, authorization, access reviews, role-based access, least privilege, MFA, SSO and privileged-access concepts.
+### 02 — SYSTEMS & VIRTUALIZATION
 
-**TECHNOLOGIES:** Active Directory · Entra ID · RBAC · MFA · SSO · PAM concepts
+- Linux administration and service management
+- Windows Server and directory-service concepts
+- Virtual machines and virtual infrastructure
+- Core services, access control and hardening
+
+<sub>WORKING CONTEXT · Debian · Linux · Windows Server · VMware ESXi / vCenter</sub>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 05 — CLOUD & DEVSECOPS
-Cloud shared responsibility, secure identity and configuration, workload protection, container security fundamentals, secrets handling and security checks in CI/CD.
+### 03 — AUTOMATION & OBSERVABILITY
 
-**TECHNOLOGIES:** Azure · AWS · Docker · Kubernetes · Terraform · GitHub Actions
+- Scripting for repeatable administration
+- Infrastructure and service monitoring
+- Metrics, logs, dashboards and alerting
+- Workflow automation and operational visibility
+
+<sub>WORKING CONTEXT · Python · Bash · PowerShell · Netdata · Node Exporter · Glances · n8n</sub>
 
 </td>
 <td width="50%" valign="top">
 
-### 06 — AI FOR SECURITY
-Machine-learning fundamentals for anomaly detection, event analysis, IoT security and responsible AI-assisted security workflows.
+### 04 — SECURITY & RESILIENCE
 
-**TECHNOLOGIES:** Python · NumPy · Pandas · scikit-learn · TensorFlow · TinyML
+- Network and infrastructure defence
+- Firewall policy and security services
+- Security monitoring and incident fundamentals
+- Backup, recovery, risk and access governance
+
+<sub>LEARNING PATH · FortiGate · SIEM concepts · ISO/IEC 27001 · IAM · Incident Response</sub>
 
 </td>
 </tr>
@@ -107,174 +92,108 @@ Machine-learning fundamentals for anomaly detection, event analysis, IoT securit
 
 ---
 
-<div align="center"><img src="./assets/headers/03-projects.svg" width="100%" alt="Selected builds"/></div>
+## 02 / FIELD EXPERIENCE
 
-## SELECTED BUILDS / ENGINEERING WORK
+### UNION IT SERVICES — Infrastructure PFA
+**July – August 2026 · Morocco**
 
-The repository covers below are part of the same NEXUS visual system. Each card links directly to its project documentation.
+Exposure to enterprise infrastructure engineering in a multi-site, virtualized and hybrid environment.
+
+- Worked around Cisco switching: VLANs, 802.1Q, Rapid-PVST, HSRP and LACP / EtherChannel.
+- Worked with FortiGate firewalling and high-availability concepts.
+- Gained exposure to VMware-based infrastructure and operational resilience.
+- Connected network design, infrastructure services and security considerations.
+
+<sub>Professional experience summary. No employer-confidential configurations, addresses or operational details are published here.</sub>
+
+---
+
+## 03 / FLAGSHIP WORK
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/HoussamEssaki/enterprise-infrastructure-security-lab"><img src="https://raw.githubusercontent.com/HoussamEssaki/enterprise-infrastructure-security-lab/main/assets/project-cover.svg" width="100%" alt="Enterprise Infrastructure and Security Lab cover"/></a>
+<a href="https://github.com/HoussamEssaki/enterprise-infrastructure-security-lab"><img src="https://raw.githubusercontent.com/HoussamEssaki/enterprise-infrastructure-security-lab/main/assets/project-cover.svg" width="100%" alt="Enterprise Infrastructure and Security Lab"/></a>
 
-**01 / ENTERPRISE INFRASTRUCTURE & SECURITY LAB**
+### ENTERPRISE INFRASTRUCTURE & SECURITY LAB
 
-Network architecture, segmentation, virtualization, defensive controls, monitoring and resilience.
+A documented enterprise-style learning environment covering network segmentation, systems, virtualization, defensive controls, monitoring and recovery.
 
-[OPEN PROJECT ↗](https://github.com/HoussamEssaki/enterprise-infrastructure-security-lab)
+**FOCUS** · Architecture / Infrastructure / Security
 
-</td>
-<td width="50%" valign="top">
+**STATUS** · Design baseline and documentation; implementation and validation tracked separately.
 
-<a href="https://github.com/HoussamEssaki/JOBGATE_Appointment_System"><img src="https://raw.githubusercontent.com/HoussamEssaki/JOBGATE_Appointment_System/main/assets/project-cover.svg" width="100%" alt="JOBGATE project cover"/></a>
-
-**02 / JOBGATE PLATFORM**
-
-Appointment management workflows, university stakeholders, talent and recruiter interactions.
-
-[OPEN PROJECT ↗](https://github.com/HoussamEssaki/JOBGATE_Appointment_System)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://github.com/HoussamEssaki/Realisation_de_projets_tuteures"><img src="https://raw.githubusercontent.com/HoussamEssaki/Realisation_de_projets_tuteures/main/assets/project-cover.svg" width="100%" alt="AI and e-commerce project cover"/></a>
-
-**03 / AI × E-COMMERCE**
-
-Academic exploration of recommendations, computer vision and application/data security considerations.
-
-[OPEN PROJECT ↗](https://github.com/HoussamEssaki/Realisation_de_projets_tuteures)
+[EXPLORE THE LAB ↗](https://github.com/HoussamEssaki/enterprise-infrastructure-security-lab)
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/HoussamEssaki/ROBOT-VOITURE-SUIVEUR-DE-LIGNE-ET-DETECTEUR-D-OBSTACLE-AVEC-CONTROLE-BLUETOOTH/blob/Robot_Voiture/README.md"><img src="https://raw.githubusercontent.com/HoussamEssaki/ROBOT-VOITURE-SUIVEUR-DE-LIGNE-ET-DETECTEUR-D-OBSTACLE-AVEC-CONTROLE-BLUETOOTH/Robot_Voiture/assets/project-cover.svg" width="100%" alt="Robotics project cover"/></a>
+<a href="https://github.com/HoussamEssaki/ROBOT-VOITURE-SUIVEUR-DE-LIGNE-ET-DETECTEUR-D-OBSTACLE-AVEC-CONTROLE-BLUETOOTH/tree/Robot_Voiture"><img src="https://raw.githubusercontent.com/HoussamEssaki/ROBOT-VOITURE-SUIVEUR-DE-LIGNE-ET-DETECTEUR-D-OBSTACLE-AVEC-CONTROLE-BLUETOOTH/Robot_Voiture/assets/project-cover.svg" width="100%" alt="Embedded robotics project"/></a>
 
-**04 / AUTONOMOUS MOTION**
+### EMBEDDED SYSTEMS & CONNECTIVITY
 
-Embedded robotics project focused on line following, obstacle detection and Bluetooth control.
+Academic robotics project combining embedded control, sensor-driven behaviour and Bluetooth communication.
 
-[OPEN PROJECT ↗](https://github.com/HoussamEssaki/ROBOT-VOITURE-SUIVEUR-DE-LIGNE-ET-DETECTEUR-D-OBSTACLE-AVEC-CONTROLE-BLUETOOTH/tree/Robot_Voiture)
+**FOCUS** · Embedded / IoT / Connectivity
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://github.com/HoussamEssaki/Application-console-de-gestion-universitaire"><img src="https://raw.githubusercontent.com/HoussamEssaki/Application-console-de-gestion-universitaire/Mini-projet-POO-C++/assets/project-cover.svg" width="100%" alt="University management project cover"/></a>
-
-**05 / UNIVERSITY MANAGEMENT CONSOLE**
-
-C++ console application applying object-oriented programming to a university management scenario.
-
-[OPEN PROJECT ↗](https://github.com/HoussamEssaki/Application-console-de-gestion-universitaire/tree/Mini-projet-POO-C%2B%2B)
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/HoussamEssaki/Vente-de-Mat-riel-Informatique"><img src="https://raw.githubusercontent.com/HoussamEssaki/Vente-de-Mat-riel-Informatique/main/assets/project-cover.svg" width="100%" alt="IT equipment e-commerce project cover"/></a>
-
-**06 / IT EQUIPMENT STORE**
-
-An academic e-commerce website project centered on an online catalog for computer equipment.
-
-[OPEN PROJECT ↗](https://github.com/HoussamEssaki/Vente-de-Mat-riel-Informatique)
+[EXPLORE THE PROJECT ↗](https://github.com/HoussamEssaki/ROBOT-VOITURE-SUIVEUR-DE-LIGNE-ET-DETECTEUR-D-OBSTACLE-AVEC-CONTROLE-BLUETOOTH/tree/Robot_Voiture)
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-<a href="https://github.com/HoussamEssaki?tab=repositories"><img src="https://img.shields.io/badge/ALL_REPOSITORIES-OPEN_INDEX-0D1216?style=for-the-badge&logo=github&logoColor=00E5FF"/></a>
-</div>
+### OTHER ACADEMIC BUILDS
+
+- [JOBGATE — Appointment System](https://github.com/HoussamEssaki/JOBGATE_Appointment_System) · University appointment workflows and role-based user journeys.
+- [AI × E-commerce projects](https://github.com/HoussamEssaki/Realisation_de_projets_tuteures) · Academic work involving recommendation and computer-vision themes.
+- [University Management Console](https://github.com/HoussamEssaki/Application-console-de-gestion-universitaire) · C++ and object-oriented programming.
+- [IT Equipment Store](https://github.com/HoussamEssaki/Vente-de-Mat-riel-Informatique) · Academic e-commerce project.
+
+[ BROWSE ALL REPOSITORIES ↗ ](https://github.com/HoussamEssaki?tab=repositories)
 
 ---
 
-<div align="center"><img src="./assets/headers/04-toolbox.svg" width="100%" alt="Tools and technologies"/></div>
+## 04 / TOOLKIT
 
-## TECHNICAL ECOSYSTEM / TOOLBOX
+| AREA | HANDS-ON / ACADEMIC CONTEXT |
+|:--|:--|
+| **Networking** | Cisco switching, VLANs, 802.1Q, STP, HSRP, LACP, Wireshark |
+| **Systems** | Debian, Linux, Windows Server, VMware |
+| **Automation** | Python, Bash, PowerShell, n8n |
+| **Monitoring** | Netdata, Node Exporter, Glances, service and host telemetry |
+| **Security** | FortiGate exposure, firewall concepts, security monitoring fundamentals |
+| **Data & services** | MariaDB, Kafka coursework, Docker and service integration |
 
-<details open>
-<summary><b>NETWORK ENGINEERING & CONNECTIVITY</b></summary>
-<br/>
-Cisco · Packet Tracer · GNS3 · EVE-NG · PNETLab · Wireshark · tcpdump · PuTTY · MobaXterm · Termius · FortiGate · pfSense · IPv4/IPv6 · TCP/IP · VLAN · 802.1Q · STP · Rapid-PVST+ · EtherChannel · LACP · OSPF · HSRP · NAT/PAT · ACL · VPN · WAN · SDN · SD-WAN
-</details>
+<sub>Accuracy rule: this list reflects a mixture of practical work, academic projects and learning. It is not a claim of expert-level proficiency in every technology.</sub>
 
-<details>
-<summary><b>SYSTEMS, DIRECTORY SERVICES & VIRTUALIZATION</b></summary>
-<br/>
-Linux · Debian · Ubuntu · RHEL fundamentals · Windows Server · Active Directory · AD DS · DNS · DHCP · GPO · WSUS · PowerShell · Bash · VMware Workstation · ESXi · vSphere · vCenter · Hyper-V · Proxmox · VirtualBox
-</details>
+## 05 / CURRENT LEARNING VECTOR
 
-<details>
-<summary><b>AUTOMATION, DEVOPS & INFRASTRUCTURE AS CODE</b></summary>
-<br/>
-Python · Bash · PowerShell · Ansible · Terraform · Git · GitHub Actions · Docker · Docker Compose · Kubernetes fundamentals · CI/CD concepts · n8n · Configuration Management · Infrastructure as Code
-</details>
-
-<details>
-<summary><b>MONITORING, LOGGING & OBSERVABILITY</b></summary>
-<br/>
-Zabbix · Prometheus · Grafana · Netdata · Node Exporter · Glances · ELK Stack · OpenSearch · Centralized Logging · Alerting · Dashboards · Metrics
-</details>
-
-<details>
-<summary><b>CYBERSECURITY, SOC & SECURITY ASSESSMENT</b></summary>
-<br/>
-Wazuh · Splunk · Microsoft Sentinel · Microsoft Defender · Nessus · Nmap · Kali Linux · Burp Suite · OWASP ZAP · Wireshark · MITRE ATT&CK · SIEM · IDS/IPS concepts · Vulnerability Management · Incident Response
-</details>
-
-<details>
-<summary><b>CLOUD, IAM, GRC & AI SECURITY</b></summary>
-<br/>
-Microsoft Azure · Microsoft Entra ID · Azure RBAC · AWS fundamentals · GCP fundamentals · IAM · RBAC · MFA · SSO · ISO/IEC 27001 · NIST CSF · Risk Assessment · ISMS · Python · NumPy · Pandas · scikit-learn · TensorFlow · PyTorch fundamentals · TensorFlow Lite Micro · ESP32
-</details>
-
-<sub>Technology map: a mix of hands-on practice, academic exposure and current learning priorities. It does not imply expert-level proficiency in every listed product or framework.</sub>
-
----
-
-<div align="center"><img src="./assets/headers/05-telemetry.svg" width="100%" alt="GitHub telemetry"/></div>
-
-## GITHUB TELEMETRY
+- Building stronger foundations in enterprise network and systems engineering.
+- Improving Linux administration, automation and infrastructure observability.
+- Developing defensive security knowledge: monitoring, incident handling, hardening and risk.
+- Exploring Cloud, DevOps / DevSecOps and infrastructure-as-code practices.
 
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=HoussamEssaki&show_icons=true&hide_border=true&bg_color=0D1216&title_color=FFE600&text_color=E8EEF0&icon_color=00E5FF" alt="GitHub profile statistics"/>
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoussamEssaki&layout=compact&hide_border=true&bg_color=0D1216&title_color=00E5FF&text_color=E8EEF0" alt="Most used languages"/>
-  <br/><br/>
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=HoussamEssaki&bg_color=0D1216&color=FFE600&line=00E5FF&point=B7FF3C&area=true&hide_border=true" alt="GitHub activity graph"/>
+
+<a href="https://tryhackme.com/p/houssamessaki"><img src="https://img.shields.io/badge/TRYHACKME-LEARNING_PROFILE-0b1114?style=for-the-badge&logo=tryhackme&logoColor=d8ff38" alt="TryHackMe learning profile"/></a>
 
 </div>
 
 ---
 
-<div align="center"><img src="./assets/headers/06-connect.svg" width="100%" alt="Connect and collaborate"/></div>
+## 06 / LET'S CONNECT
 
-## CURRENT TRANSMISSION
-
-**Seeking a six-month PFE internship starting February 2027 in Morocco.**
-
-- Infrastructure, networks and systems engineering
-- Virtualization, datacentres and hybrid cloud
-- Network and infrastructure security
-- SOC, SIEM, monitoring and incident response
-- Security assessment and vulnerability management
-- GRC, ISO 27001 and risk management
-- IAM and access governance
-- Automation, observability, DevOps and DevSecOps
-- AI applied to infrastructure and cybersecurity
+**Open to:** PFE opportunities beginning February 2027 in Networks, Systems, Infrastructure, Cloud, IT Operations or Cybersecurity.
 
 <div align="center">
-  <a href="https://tryhackme.com/p/houssamessaki"><img src="https://img.shields.io/badge/TRYHACKME-PRACTICAL_LEARNING-FFE600?style=for-the-badge&logo=tryhackme&logoColor=090D10"/></a>
-  <h3>DESIGN RELIABLE INFRASTRUCTURE.<br/>MAKE IT OBSERVABLE.<br/>SECURE IT THROUGHOUT ITS LIFECYCLE.</h3>
-  <a href="https://houssamessaki.vercel.app/">PORTFOLIO</a> ·
-  <a href="https://www.linkedin.com/in/houssam-essaki/">LINKEDIN</a> ·
-  <a href="https://tryhackme.com/p/houssamessaki">TRYHACKME</a> ·
-  <a href="https://github.com/HoussamEssaki">GITHUB</a>
-  <br/><br/>
-  <sub>NEXUS // INFRASTRUCTURE CONTROL SYSTEM · HOUSSAM ESSAKI · 2026</sub>
+
+### DESIGN THE INFRASTRUCTURE.
+### MAKE OPERATIONS VISIBLE.
+### BUILD SECURITY INTO THE SYSTEM.
+
+[PORTFOLIO](https://houssamessaki.vercel.app/) &nbsp;·&nbsp; [LINKEDIN](https://www.linkedin.com/in/houssam-essaki/) &nbsp;·&nbsp; [TRYHACKME](https://tryhackme.com/p/houssamessaki)
+
+<sub>NEXUS / HOUSSAM ESSAKI / INFRASTRUCTURE ENGINEERING / 2026–2027</sub>
+
 </div>
