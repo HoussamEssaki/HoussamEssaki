@@ -111,52 +111,78 @@ Machine-learning fundamentals for anomaly detection, event analysis, IoT securit
 
 ## SELECTED BUILDS / ENGINEERING WORK
 
+The repository covers below are part of the same NEXUS visual system. Each card links directly to its project documentation.
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/01-FLAGSHIP_LAB-FFE600?style=for-the-badge&labelColor=0D1216"/>
-### Enterprise Infrastructure & Security Lab
+<a href="https://github.com/HoussamEssaki/enterprise-infrastructure-security-lab"><img src="https://raw.githubusercontent.com/HoussamEssaki/enterprise-infrastructure-security-lab/main/assets/project-cover.svg" width="100%" alt="Enterprise Infrastructure and Security Lab cover"/></a>
 
-Enterprise-style lab documentation covering network architecture, segmentation, virtualization, defensive controls, monitoring and resilience.
+**01 / ENTERPRISE INFRASTRUCTURE & SECURITY LAB**
 
-**SCOPE:** Networking · Virtualization · Security · Monitoring
+Network architecture, segmentation, virtualization, defensive controls, monitoring and resilience.
 
-[EXPLORE THE LAB ↗](https://github.com/HoussamEssaki/enterprise-infrastructure-security-lab)
+[OPEN PROJECT ↗](https://github.com/HoussamEssaki/enterprise-infrastructure-security-lab)
 
 </td>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/02-INDUSTRY_EXPOSURE-00E5FF?style=for-the-badge&labelColor=0D1216"/>
-### Multi-site Infrastructure & Security
+<a href="https://github.com/HoussamEssaki/JOBGATE_Appointment_System"><img src="https://raw.githubusercontent.com/HoussamEssaki/JOBGATE_Appointment_System/main/assets/project-cover.svg" width="100%" alt="JOBGATE project cover"/></a>
 
-Industry placement exposure to enterprise network and virtualized infrastructure, high-availability concepts, firewall services and operational monitoring.
+**02 / JOBGATE PLATFORM**
 
-**SCOPE:** Cisco · FortiGate HA · VMware · Resilience
+Appointment management workflows, university stakeholders, talent and recruiter interactions.
 
-<sub>Public descriptions are generalized; confidential employer configurations are excluded.</sub>
+[OPEN PROJECT ↗](https://github.com/HoussamEssaki/JOBGATE_Appointment_System)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/03-OBSERVABILITY-B7FF3C?style=for-the-badge&labelColor=0D1216"/>
-### Linux Monitoring & Automation
+<a href="https://github.com/HoussamEssaki/Realisation_de_projets_tuteures"><img src="https://raw.githubusercontent.com/HoussamEssaki/Realisation_de_projets_tuteures/main/assets/project-cover.svg" width="100%" alt="AI and e-commerce project cover"/></a>
 
-Linux server monitoring environment with metrics, dashboards, notifications and workflow automation.
+**03 / AI × E-COMMERCE**
 
-**SCOPE:** Debian · Netdata · Node Exporter · Glances · n8n
+Academic exploration of recommendations, computer vision and application/data security considerations.
+
+[OPEN PROJECT ↗](https://github.com/HoussamEssaki/Realisation_de_projets_tuteures)
 
 </td>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/04-EDGE_INTELLIGENCE-FF5E7E?style=for-the-badge&labelColor=0D1216"/>
-### AI-assisted IoT Study
+<a href="https://github.com/HoussamEssaki/ROBOT-VOITURE-SUIVEUR-DE-LIGNE-ET-DETECTEUR-D-OBSTACLE-AVEC-CONTROLE-BLUETOOTH/blob/Robot_Voiture/README.md"><img src="https://raw.githubusercontent.com/HoussamEssaki/ROBOT-VOITURE-SUIVEUR-DE-LIGNE-ET-DETECTEUR-D-OBSTACLE-AVEC-CONTROLE-BLUETOOTH/Robot_Voiture/assets/project-cover.svg" width="100%" alt="Robotics project cover"/></a>
 
-Academic exploration of connected-device systems, embedded platforms and machine-learning concepts for local anomaly detection.
+**04 / AUTONOMOUS MOTION**
 
-**SCOPE:** ESP32 · IoT · TinyML concepts · Machine Learning
+Embedded robotics project focused on line following, obstacle detection and Bluetooth control.
+
+[OPEN PROJECT ↗](https://github.com/HoussamEssaki/ROBOT-VOITURE-SUIVEUR-DE-LIGNE-ET-DETECTEUR-D-OBSTACLE-AVEC-CONTROLE-BLUETOOTH/tree/Robot_Voiture)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/HoussamEssaki/Application-console-de-gestion-universitaire"><img src="https://raw.githubusercontent.com/HoussamEssaki/Application-console-de-gestion-universitaire/Mini-projet-POO-C++/assets/project-cover.svg" width="100%" alt="University management project cover"/></a>
+
+**05 / UNIVERSITY MANAGEMENT CONSOLE**
+
+C++ console application applying object-oriented programming to a university management scenario.
+
+[OPEN PROJECT ↗](https://github.com/HoussamEssaki/Application-console-de-gestion-universitaire/tree/Mini-projet-POO-C%2B%2B)
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/HoussamEssaki/Vente-de-Mat-riel-Informatique"><img src="https://raw.githubusercontent.com/HoussamEssaki/Vente-de-Mat-riel-Informatique/main/assets/project-cover.svg" width="100%" alt="IT equipment e-commerce project cover"/></a>
+
+**06 / IT EQUIPMENT STORE**
+
+An academic e-commerce website project centered on an online catalog for computer equipment.
+
+[OPEN PROJECT ↗](https://github.com/HoussamEssaki/Vente-de-Mat-riel-Informatique)
 
 </td>
 </tr>
