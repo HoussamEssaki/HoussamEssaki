@@ -3,13 +3,13 @@
 
 <img src="./assets/nexus-banner.svg" alt="NEXUS — Systems in Motion" width="100%" />
 
-### BUILD WITH INTENT. SECURE BY DESIGN. IMPROVE ALWAYS.
+### BUILD WITH INTENT. SECURE BY DESIGN. OPERATE WITH CONFIDENCE.
 
-**State Engineering Student · Networks, Systems & Security · Full-Stack Development**
+**State Engineering Student · Infrastructure · Networks · Systems · Cybersecurity**
 
 Casablanca, Morocco · **PFE internship: February 2027 · 6 months**
 
-[Portfolio](https://houssamessaki.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/houssam-essaki/) · [GitHub](https://github.com/HoussamEssaki) · [ResearchGate](https://www.researchgate.net/profile/Houssam-Essaki)
+[Portfolio](https://houssamessaki.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/houssam-essaki/) · [TryHackMe](https://tryhackme.com/p/houssamessaki) · [GitHub](https://github.com/HoussamEssaki)
 
 </div>
 
@@ -19,156 +19,178 @@ Casablanca, Morocco · **PFE internship: February 2027 · 6 months**
 
 I’m a final-year State Engineering student at **Groupe ISGA**, specializing in **Networks, Systems & Security Engineering**.
 
-I’m interested in the engineering behind dependable digital services: the infrastructure that connects them, the systems that operate them, the security controls that protect them, and the software that makes them useful.
+My focus is the engineering, operation and protection of IT environments: enterprise infrastructure, network architecture, systems administration, virtualization, automation, observability, cloud platforms and cybersecurity.
 
-My academic and internship work brings together infrastructure engineering, virtualization, network technologies, security, automation and full-stack development. I value clear architecture, reproducible documentation and honest technical validation.
+I’m particularly interested in the connection between reliable infrastructure and security operations — building environments that are resilient, observable, maintainable and secure by design.
 
-> I build, connect and secure the systems behind digital experiences.
+> I build, connect, automate, monitor and secure the systems that keep digital services running.
 
 ---
 
 ## 01 / ENGINEERING DOMAINS
 
-| DOMAIN | PRACTICE & INTERESTS |
+| DOMAIN | SCOPE |
 |:--|:--|
-| **NETWORKS** | TCP/IP, switching, VLANs, 802.1Q, routing, redundancy, VPNs and troubleshooting |
-| **SYSTEMS & VIRTUALIZATION** | Linux, Windows environments, VMware, infrastructure services and administration |
-| **SECURITY** | Network security, Fortinet environments, hardening, access control and defensive monitoring |
-| **CLOUD & DEVOPS** | Cloud fundamentals, hybrid infrastructure concepts, Docker and automation |
-| **SOFTWARE ENGINEERING** | Python, JavaScript/TypeScript, Django REST Framework, React, SQL and API integration |
-| **OBSERVABILITY** | Monitoring, logs, dashboards, alerting and workflow automation |
+| **IT INFRASTRUCTURE** | Enterprise architecture, multi-site environments, data-centre concepts, high availability, resilience, capacity and service continuity |
+| **NETWORK ENGINEERING** | TCP/IP, IPv4/IPv6, subnetting/VLSM, switching, routing, VLANs, 802.1Q, STP/Rapid-PVST+, EtherChannel/LACP, OSPF, HSRP, NAT/PAT, ACLs, VPN, WAN, SDN/SD-WAN |
+| **SYSTEMS ADMINISTRATION** | Linux and Windows Server, identity services, DNS, DHCP, Active Directory, Group Policy, server hardening, patching, access and service management |
+| **VIRTUALIZATION & DATACENTRE** | VMware ESXi, vSphere, vCenter, Hyper-V, Proxmox, VirtualBox, virtual networking, resource allocation and availability |
+| **AUTOMATION & IaC** | Bash, PowerShell, Python, Ansible, Terraform, Git, workflow automation and configuration management |
+| **MONITORING & OBSERVABILITY** | Metrics, logs, dashboards, alerting, availability, performance monitoring, centralized logging and operational reporting |
+| **CLOUD & HYBRID INFRASTRUCTURE** | Azure, AWS and GCP fundamentals; hybrid connectivity, cloud networking, identity, access, storage and workload security |
+| **DEVOPS & DEVSECOPS** | Docker, Kubernetes fundamentals, CI/CD concepts, GitHub Actions, infrastructure as code, secrets management and security checks in delivery workflows |
+| **CYBERSECURITY** | Network defence, infrastructure hardening, vulnerability management, security monitoring, incident response, identity security and risk management |
+| **AI FOR SECURITY** | Machine learning, deep learning and TinyML concepts applied to anomaly detection, IoT security, event analysis and security automation |
 
-*These are areas of study and practice, not a claim of expert-level proficiency in every technology.*
+*This map describes areas of study, hands-on practice and professional interests. It is not a claim of expert-level proficiency in every listed technology.*
 
 ---
 
-## 02 / SELECTED BUILDS
+## 02 / SECURITY PRACTICE
+
+| TRACK | TOPICS & METHODS |
+|:--|:--|
+| **SOC & BLUE TEAM** | SIEM concepts, log analysis, alert triage, event correlation, threat monitoring, detection engineering foundations, incident handling, escalation, evidence preservation, threat intelligence and MITRE ATT&CK |
+| **PENTEST & SECURITY ASSESSMENT** | Authorized assessment methodology, scoping, reconnaissance concepts, asset discovery, service review, vulnerability assessment, web security fundamentals, OWASP Top 10, validation and remediation reporting |
+| **GRC** | ISO/IEC 27001, ISMS concepts, NIST Cybersecurity Framework, risk assessment, asset classification, security policies, audit preparation, controls mapping, compliance evidence and remediation tracking |
+| **IAM** | Identity lifecycle, Active Directory, Microsoft Entra ID, RBAC, least privilege, MFA, SSO, access reviews, privileged-access concepts and authentication fundamentals |
+| **INFRASTRUCTURE SECURITY** | Network segmentation, DMZ, firewall policy concepts, VPN, secure administration, system hardening, endpoint protection, backup security, resilience and defence in depth |
+| **CLOUD & DEVSECOPS SECURITY** | Shared-responsibility model, cloud IAM, secure configuration, workload protection, container security concepts, secrets handling and security integration in CI/CD |
+| **AI SECURITY** | AI system risk awareness, data protection, model and pipeline security concepts, adversarial-risk awareness and responsible use of AI in security workflows |
+
+---
+
+## 03 / SELECTED ENGINEERING WORK
 
 ### 01 — Enterprise Infrastructure & Security Lab
-**Infrastructure · Network Design · Security · Monitoring**
+**Infrastructure · Network Architecture · Virtualization · Security · Operations**
 
-A structured, isolated lab project for designing and validating an enterprise-style environment.
+An isolated enterprise-style lab and documentation project focused on architecture, segmentation, defensive controls and operational resilience.
 
-- Segmented user, server, DMZ and management zones.
-- Virtualization and core infrastructure services.
-- Defensive security controls and restricted administration.
-- Monitoring, logging, backup and recovery planning.
-- A status register that separates planned, implemented and tested work.
+- Network zones for users, servers, DMZ and administration.
+- Switching, routing, redundancy and secure inter-site connectivity concepts.
+- Virtualized infrastructure and core services.
+- Firewall and layered security-control design.
+- Monitoring, centralized logs, backup and recovery planning.
+- Validation register distinguishing planned, implemented and tested components.
 
 [OPEN THE LAB →](https://github.com/HoussamEssaki/enterprise-infrastructure-security-lab)
 
-### 02 — JOBGATE Appointment System
-**Full-Stack · Django REST · React · PostgreSQL**
+### 02 — Multi-site Infrastructure & Security Work
+**Cisco · FortiGate HA · VMware · Monitoring · Resilience**
 
-A university/startup-oriented appointment and talent-management application developed during an internship project.
+Infrastructure work carried out during an industry placement, involving a multi-site virtualized environment and high-availability design.
 
-- Backend based on Django REST Framework and PostgreSQL.
-- Frontend based on React and TypeScript.
-- Project work also involved Redis, Celery, Docker, JWT and API integration.
-- Role-oriented workflows for platform actors.
+- Cisco switching concepts: VLANs, 802.1Q, Rapid-PVST+, HSRP and LACP.
+- FortiGate active-passive high-availability environment and security services.
+- Virtualization, infrastructure services and network segmentation.
+- Monitoring, alerting and operational documentation.
 
-[EXPLORE JOBGATE →](https://github.com/HoussamEssaki/JOBGATE_Appointment_System)
+The public lab documents generalized learning and architecture; confidential company configurations and data are intentionally excluded.
 
-### 03 — Personal Journal & Mood Tracker
-**Android · Kotlin · Local Data · Privacy-Aware Design**
+### 03 — Automated Linux Server Monitoring
+**Debian · Netdata · Prometheus · Docker · n8n · MariaDB**
 
-An Android application project focused on personal journaling, offline-first use and privacy-conscious local data handling.
+A monitoring and alerting project for Linux environments.
 
-[EXPLORE THE PROJECT →](https://github.com/HoussamEssaki/Personal-Journal-and-Mood-Tracker)
+- Host and service visibility through metrics and dashboards.
+- Alert workflows and notification channels.
+- Containerized supporting services and structured monitoring data.
+- Operational focus on observability and proactive response.
 
-### 04 — University Management Console
-**C++ · Object-Oriented Programming**
+### 04 — AI-assisted IoT Security Study
+**IoT · ESP32 · TinyML · Machine Learning**
 
-A console-based academic project exploring object-oriented application structure and university-management workflows.
+An academic exploration of local, embedded intelligence for identifying suspicious IoT behaviour.
 
-[EXPLORE THE PROJECT →](https://github.com/HoussamEssaki/Application-console-de-gestion-universitaire)
+- Edge-oriented detection concepts.
+- Machine-learning and TinyML workflow.
+- Security considerations for constrained connected devices.
 
-### 05 — Line-Following & Obstacle-Detection Robot
-**Embedded Systems · Robotics · Bluetooth Control**
+### 05 — TryHackMe Learning Profile
+**Hands-on Cybersecurity Learning · Security Fundamentals · Practical Labs**
 
-A student robotics project combining line-following, obstacle-detection and Bluetooth-control objectives.
+My TryHackMe profile documents ongoing practical learning in cybersecurity. The profile is the source of truth for current rooms, progress, badges and learning paths.
 
-[EXPLORE THE PROJECT →](https://github.com/HoussamEssaki/ROBOT-VOITURE-SUIVEUR-DE-LIGNE-ET-DETECTEUR-D-OBSTACLE-AVEC-CONTROLE-BLUETOOTH)
-
-### 06 — IT Equipment E-Commerce
-**Web Development · Academic Project**
-
-An academic project centered on an online IT-equipment sales experience.
-
-[EXPLORE THE PROJECT →](https://github.com/HoussamEssaki/Vente-de-Mat-riel-Informatique)
+[VIEW MY TRYHACKME PROFILE →](https://tryhackme.com/p/houssamessaki)
 
 ---
 
-## 03 / ENGINEERING NOTEBOOK
+## 04 / INFRASTRUCTURE & SECURITY TOOLBOX
 
-I believe technical work should remain understandable after the original builder leaves the room.
+The following is a categorized technology map relevant to my coursework, labs and professional interests. Individual tools may represent hands-on use, academic exposure or technologies I am currently deepening.
 
-My documentation approach is built around five questions:
+### Networks & Connectivity
+`Cisco` `Packet Tracer` `GNS3` `EVE-NG` `PNETLab` `Wireshark` `tcpdump` `PuTTY` `MobaXterm` `Termius` `FortiGate` `pfSense`
 
-- **Architecture** — What are the components, boundaries and dependencies?
-- **Configuration intent** — Why does each control exist?
-- **Validation** — What was tested, what passed and what remains unverified?
-- **Security** — Where are the trust boundaries, access paths and residual risks?
-- **Operations** — How are monitoring, backup and recovery handled?
+### Systems & Identity
+`Linux` `Debian` `Ubuntu` `RHEL` `Windows Server` `Active Directory` `AD DS` `DNS` `DHCP` `GPO` `WSUS` `PowerShell` `Bash`
 
-The infrastructure lab is where I’m developing this practice through structured design notes and a validation register.
+### Virtualization & Containers
+`VMware Workstation` `ESXi` `vSphere` `vCenter` `Hyper-V` `Proxmox` `VirtualBox` `Docker` `Docker Compose` `Kubernetes`
+
+### Automation, IaC & DevOps
+`Python` `Bash` `PowerShell` `Ansible` `Terraform` `Git` `GitHub Actions` `CI/CD` `n8n`
+
+### Monitoring & Observability
+`Zabbix` `Grafana` `Prometheus` `Netdata` `Node Exporter` `Glances` `ELK` `OpenSearch`
+
+### Security Operations & Assessment
+`Wazuh` `Splunk` `Microsoft Sentinel` `Microsoft Defender` `Nessus` `Nmap` `Kali Linux` `Burp Suite` `OWASP ZAP` `MITRE ATT&CK`
+
+### Cloud Platforms
+`Microsoft Azure` `Microsoft Entra ID` `Azure RBAC` `AWS` `EC2` `S3` `VPC` `IAM` `GCP`
+
+### Governance, Risk & Compliance
+`ISO/IEC 27001` `NIST CSF` `Risk Assessment` `Security Controls` `ISMS` `Audit Evidence` `Policies & Procedures`
+
+### AI & Security Analytics
+`Python` `NumPy` `Pandas` `scikit-learn` `TensorFlow` `PyTorch` `TensorFlow Lite Micro` `ESP32` `Anomaly Detection Concepts`
 
 ---
 
-## 04 / TOOLBOX
+## 05 / ENGINEERING NOTEBOOK
+
+Every infrastructure project should be understandable, reproducible and verifiable.
+
+My documentation approach is based on:
+
+- **Architecture:** components, network zones, trust boundaries and dependencies.
+- **Configuration:** intended behaviour, security rationale and operational impact.
+- **Automation:** repeatable tasks, version-controlled configuration and clear change history.
+- **Observability:** metrics, logs, alerts and service health.
+- **Validation:** test scope, evidence, results and remaining limitations.
+- **Resilience:** backup, recovery, availability and continuity planning.
+
+---
+
+## 06 / CURRENT TRANSMISSION
+
+**Objective:** a **six-month PFE internship starting February 2027** in Morocco.
+
+I’m looking for an opportunity focused on one or more of these areas:
+
+- Infrastructure, networks and systems engineering
+- Virtualization, data-centre and hybrid-cloud environments
+- Network and infrastructure security
+- SOC, SIEM, monitoring and incident response
+- Security assessment and vulnerability management
+- GRC, ISO 27001 and risk management
+- IAM and access governance
+- Automation, observability, DevOps and DevSecOps
+- AI applied to infrastructure and cybersecurity
+
+---
+
+## 07 / CONNECT
 
 <div align="center">
 
-**NETWORK & INFRASTRUCTURE**
-
-<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco" />
-<img src="https://img.shields.io/badge/Fortinet-EE3124?style=flat-square&logo=fortinet&logoColor=white" alt="Fortinet" />
-<img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white" alt="VMware" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-<img src="https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Windows Server" />
-
-**DEVELOPMENT & AUTOMATION**
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-
-**SECURITY & OBSERVABILITY**
-
-<img src="https://img.shields.io/badge/Wazuh-3B5BDB?style=flat-square&logoColor=white" alt="Wazuh" />
-<img src="https://img.shields.io/badge/Zabbix-D40000?style=flat-square&logo=zabbix&logoColor=white" alt="Zabbix" />
-<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
-
-</div>
-
----
-
-## 05 / CURRENT TRANSMISSION
-
-**Primary objective:** a **six-month PFE internship starting February 2027** in Morocco.
-
-Areas I’m particularly interested in:
-
-- Network and systems engineering
-- Infrastructure and network security
-- Security monitoring and operational resilience
-- Virtualization, hybrid cloud and automation
-- DevOps and the intersection of software and infrastructure
-
----
-
-## 06 / CONNECT
-
-<div align="center">
-
-### LET’S BUILD SOMETHING THAT WORKS — AND THAT CAN BE TRUSTED.
+### DESIGN RELIABLE INFRASTRUCTURE. MAKE IT OBSERVABLE. SECURE IT THROUGHOUT ITS LIFECYCLE.
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-0B1220?style=for-the-badge&logo=vercel&logoColor=white)](https://houssamessaki.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/houssam-essaki/)
+[![TryHackMe](https://img.shields.io/badge/TRYHACKME-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/houssamessaki)
 [![GitHub](https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HoussamEssaki)
 
 <sub>NEXUS / SYSTEMS IN MOTION · Houssam Essaki · 2026</sub>
